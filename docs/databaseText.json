@@ -1,0 +1,1536 @@
+[
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:18:38+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:18:38+02:00",
+        "source": "./database/english/american-cities.pdf",
+        "total_pages": 5,
+        "page": 0,
+        "page_label": "1",
+        "document": "american-cities"
+      },
+      "page_content": " \n1 \n \nAmerican cities \nAdvanced version \n \nWashington D. C. \n− The capital city of the USA is Washington D.C. \n− It is located in the District of Columbia \n− It is in the east of USA \n− It is not such as large as New York \n− The White House is the official residence and workplace of the President of the United \nStates \n− The name of the city was created as a honor to first American president George \nWashington \n \nNew York \n− It is the largest city in the USA \n− It has about 8 million people \n− It is the most densely populated major city in the USA \n− It is located in the state of New Y ork \n− It is in the north-east of the USA \n− The Statue of Liberty is the most famous symbol of New York \n− The Brooklyn Bridge is a famous bridge connecting the boroughs of Manhattan and \nBrooklyn \n− It is sometimes called „The Big Apple“ or „The city that never sleeps“ because it is \nalive with action all day and night \n− Another famous place is the Statue of Liberty, the symbol of the USA, its freedom, \ndemocracy and opportunity \n− Annually, the city averages 234 days with at least some sunshine \n− New Y ork has the largest subway system in the world \n− US OPEN one of the world´s four Grand Slams in tennis tournaments, is held at the \nNational Tennis Center in Flushing Meadows-Corona Park, Queens. \n \nLos Angeles \n− Los Angeles is famous for its film industry and it is the second largest city in the USA \n− It is located in the state of California \n− It is in the south-west of the USA \n− There is the luxurious great Beverly Hills \n− Hollywood is a famous part of Los Angeles and home of the entertainment industry \n− The Walk of Fame, on Hollywood Boulevard, is known for having stars with the names \nof famous people",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:18:38+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:18:38+02:00",
+        "source": "./database/english/american-cities.pdf",
+        "total_pages": 5,
+        "page": 1,
+        "page_label": "2",
+        "document": "american-cities"
+      },
+      "page_content": " \n2 \n \nSan Francisco \n− The Golden Gate Bridge, the prison of Alcatraz and the hippies made the city famous to \nthe world \n− It is located in the state of California \n− It is on the west coast of the USA \n− The cable car system is one of the symbols of the city \n− Alcatraz prison, on the island of Alcatraz, is notorious all around the world \n \nLas Vegas \n− It is the city famous for having lots of casinos \n− Las Vegas is also well known for its wedding chapels and quick marriage ceremonies \n− It is located in the state of Nevada \n− It is in the west of the USA \n \nPhiladelphia \n− It is the city where the Declaration if Independence was signed in 1776 \n− It is located in the state of Pennsylvania \n− It is in the north-east of the USA \n \nChicago \n− It is home to Willis Tower, formerly known as the Sears Tower \n− This 442-metre skyscraper was the world’s tallest building until 1998 \n− The Navy Pier is another popular place to go in Chicago \n− Sports fans also might like to visit Wrigley Field, home of the Chicago Cubs baseball \nteam \n− Chicago is also a city of jazz and blues clubs \n \nSeattle \n− It is located on Puget Sound, a narrow passage of the Pacific Ocean \n− Interesting architecture includes the Seattle Public Library and the Seattle Art \nMuseum, and of course the Space Needle, a famous observation tower built in the 1960s \n− Seattle is also home to many bands such as Nirvana and Pearl Jam \n \nHouston \n− It is home to NASA’s Space Center \n− There is the largest fine arts museum in the Southwest",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:18:38+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:18:38+02:00",
+        "source": "./database/english/american-cities.pdf",
+        "total_pages": 5,
+        "page": 2,
+        "page_label": "3",
+        "document": "american-cities"
+      },
+      "page_content": " \n3 \n \nDallas \n− It was known for its real-life cowboys, or ranchers \n− Now It is famous for the Dallas Cowboys who play American football \n− There is the Sixth Floor Museum, dedicated to the assassination of President John F. \nKennedy \n \n− San Antonio \n− It is probably one of Texas’ prettiest cities \n− It has a beautiful River Walk filled with restaurants and shops \n \nNew Orleans \n− It is synonymous with jazz music, Cajun food and a liberal attitude \n \nMiami \n− It is famous for its parties, beaches, and Cuban food because there are many immigrants \nfrom Cuba \n \nAtlanta \n− It is the largest city in the South \n− It has unique attractions, such as a museum dedicated to Coca Cola \n \n \nDoplňující otázky \n1. Which US cities do you know? \n− There are many well-known cities in America like… (Pick the most memorable for you) \n \n2. Why is New York such a popular city? \n− It has the largest population of all American cities \n− The New York skyline can be admired from the tallest building in the city, the Empire \nState Building \n− Many tourists also like to visit Central Park, the theatre district on Broadway, the Statue \nof Liberty and Ellis Island, where millions of immigrants entered the New World \n− Art lovers shouldn’t miss the Museum of Modern Art (MoMA) or the spiral-shaped \nGuggenheim \n \n3. What are some important things to see in the US capital, Washington DC? \n− You should first head to the White House and the Capitol \n− The White House is the seat of the American president \n− The Capitol building is where the American Congress resides and all the country’s laws",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:18:38+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:18:38+02:00",
+        "source": "./database/english/american-cities.pdf",
+        "total_pages": 5,
+        "page": 3,
+        "page_label": "4",
+        "document": "american-cities"
+      },
+      "page_content": " \n4 \n \nare made \n− The National Mall is a beautiful area filed with monuments, for example the \nWashington Monument, the Lincoln Memorial, the Thomas Jeffrson Memorial, the Vietnam \nWar Memorial, etc. \n− Another place of interest in Washington is the Smithsonian, an institution made up of 19 \ndifferent museums such as the Air and Space Museum. \n \n4. What should visitors see in Chicago? \n− It is home to Willis Tower, formerly known as the Sears Tower. \n− The Navy Pier is another popular place to go \n− Sports fans also might like to visit Wrigley Field, home of the Chicago Cubs baseball \nteam. \n− Chicago is also a city of jazz and blues clubs \n \n5. California has many popular cities. What do you know about them? \n− Los Angeles and San Francisco are the most visited cities in California \n− Other interesting ones are San Diego, San José and the state capital, Sacramento \n− Los Angeles is in the south and is known for Hollywood, the centre of the American film \nindustry, beaches and shopping \n− Up north, San Francisco draws tourists to landmarks such as the Golden Gate Bridge, \nhistoric cable cars, Fisherman’s Wharf, a waterfront area with many tourist attractions, and \nthe notorious Alcatraz Island with its former prison \n− San José is best known as the heart of Silicon Valley, where lots of tech companies like \nGoogle and Apple have their headquarters \n \n6. What is there to do in one of the most visited American cities, Las Vegas? \n− It is in Nevada \n− It is the fastest growing city in the USA \n− It’s famous for its huge casinos, which often look like top tourist attractions. For example, \nthe Luxor is in the shape of a huge pyramid. \n− Las Vegas is also well known for its wedding chapels and quick marriage ceremonies; \nthere are even drive-through chapels. \n \n7. I would like to visit the Northwest. Are there any interesting cities? \n− Two of the best-known cities are Seattle, in Washington state, and Portland, in Oregon \n− Interesting architecture includes the Seattle Public Library and the Seattle Art \nMuseum, and of course the Space Needle, a famous observation tower built in the 1960s. \n− Seattle is also home to many bands such as Nirvana and Pearl Jam \n− Portland is south of Seattle and is known for its environmental friendliness",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:18:38+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:18:38+02:00",
+        "source": "./database/english/american-cities.pdf",
+        "total_pages": 5,
+        "page": 4,
+        "page_label": "5",
+        "document": "american-cities"
+      },
+      "page_content": " \n5 \n \n \n8. Texas has lots of cities; do you know anything about them? \n− Houston is home to NASA’s Space Center and the largest fie arts museum in the \nSouthwest \n− Dallas was known for its real-life cowboys, or ranchers, but now is famous for the Dallas \nCowboys who play American football \n− In Dallas there is the Sixth Floor Museum, dedicated to the assassination of President \nJohn F. Kennedy \n− San Antonio is probably one of Texas’ prettiest cities \n \n9. Can you tell me about some interesting cities in the southern part of the US? \n− Miami, Atlanta and New Orleans are probably the three most well-known cities in the \nAmerican South \n− New Orleans is synonymous with jazz music, Cajun food and a liberal attitude \n− Miami is famous for its parties, beaches, and Cuban food because there are many \nimmigrants from Cuba \n− Atlanta is the largest city in the South and has unique attractions, such as a museum \ndedicated to Coca Cola. \n− The state of Tennessee is known for its country music, particularly in cities like \nNashville and Memphis, where Elvis grew up. \n \n10. What do the visitors of LA want to see? \n− Many visitors of LA like to see Universal Studios, Disneyland, the Hollywood Walk of \nFame and other movie-related sites \n \nDůležitá slovíčka \n− Fonetická výslovnost není pro lepší srozumitelnost uvedena \nassassination (asasinejšn) atentát, vražda \nattitude (ejtitůd) postoj, přístup \nborough (borou) čtvrť \ndeclarations (deklerejšns) prohlášení \ndensely (densly) hustě  \nhonor (onr) počest \nindependence (independenc) nezávislost \nliberal (liberel) liberální, volný, \nsvobodný \nnarrow (narou) úzký \nnotorious (notories) proslulý, dobře známý \nobservation tower (observejšn tavr) vyhlídková věž \nopportunity (oporčunity) příležitost",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Office Word 2007",
+        "creator": "Microsoft® Office Word 2007",
+        "creationdate": "2019-05-20T22:07:26+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-05-20T22:07:26+02:00",
+        "source": "./database/english/australian-cities.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "australian-cities"
+      },
+      "page_content": " \n1 \n \nAustralia \nadvanced version \n \nBasic Facts \n− Australia lies between the Pacific and Indian Ocean – It is located 2 000 km from New \nZealand \n− The population of Australia is nearly 23 million \n− English is the major language in Australia \n \nHistory \n− Human habitation of the Australian continent is estimated to have begun around 65 000 to \n70 000 years ago, with the migration of people by land bridges and short sea-crossings from \nwhat is now Southeast Asia. \n− These first inhabitants were the ancestors of modern Indigenous Australians. Aboriginal \nAustralian culture is one of the oldest continual civilizations on earth. \n− The 1st recorded European sighting of the Australian mainland, and the first recorded \nEuropean landfall on the Australian continent (in 1606), are attributed to the Dutch. \n• The 1st ship and crew to chart the Australian coast and meet with Aboriginal people was the \nDuyfken captained by Dutch navigator, Willem Janszoon. \n \nPolitics \n− Australia is a part of the British Commonwealth \n− It is a constitutional monarchy \n− The head of state is the monarch of the United Kingdom – Queen Elizabeth II \n− Her representative is the Governor General \n− The head of the government is the Prime Minister \nEconomy \n− Australian dollar is the currency of the nation \n− Unemployment rate is 5.2 % \n− Australia is the world's twelfth largest economy \n− Australia is one of the richest countries \n \nCities \n− The capital city of Australia is Canberra \n• It is located in the territory of ACT (Australian Capital Territory) \n• It is in the south – east of Australia \n− Sydney is Australia’s largest city \n• It is located in the state of New South Wales \n• It is in the south – east of Australia to the north of Canberra \n− Melbourne is the second largest city in Australia \n• It is located in the state of Victoria \n• It is on the south – east coast to the south – west of Canberra \n− Brisbane is the third largest city in Australia \n• It is located in the state of Queensland \n• It is on the east coast of Australia \n \nGeography \n− Australia consists of 6 states and 2 main territories \n− Although Australia is a country, it is also the smallest continent in the world.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Office Word 2007",
+        "creator": "Microsoft® Office Word 2007",
+        "creationdate": "2019-05-20T22:07:26+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-05-20T22:07:26+02:00",
+        "source": "./database/english/australian-cities.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "australian-cities"
+      },
+      "page_content": " \n2 \n \n− The Great Barrier Reef is the largest coral reef in the world \n− Mount Kosciuszko is the highest peak on the Australian mainland, but the highest peak of \nthe whole country is Mawson Peak (2 745 m a. s. l.) which lies on the Heard Island \n− Deserts cover a significant part of Australia \n− There are also rainforests in the north-east of Australia \n− Australia is the driest inhabited continent \n− Australia — owing to its size and isolation — is often dubbed the \"island continent\", and is \nsometimes considered the world's largest island. \n− Australia has more than 30 thousands kilometres of coastline (excluding all offshore \nislands), and claims an extensive Exclusive Economic Zone of 8 148 250 square kilometres \n \nThe people of Australia \n− The native people of Australia are called Aborigines \n− There were no people there before that \n− The first Europeans started significantly settling Australia at the end of 18th century \n \nNational symbols \n− The flag of Australia is a defaced Blue Ensign: a blue field with the Union Jack in the \ncanton (upper hoist quarter), and a large white seven-pointed star known as the \nCommonwealth Star in the lower hoist quarter. The fly contains a representation of the \nSouthern Cross constellation, made up of five white stars – one small five-pointed star and \nfour, larger, seven-pointed stars. \n \nWildlife \n− There are a lot of unique animals in Australia \n− Kangaroos are very typical animals of Australia \n− The koala is another typical marsupial living in Australia \n− The Tasmanian devil is a marsupial predator living on the island of Tasmania \n \nFamous people \n− Nicole Kidman is a famous Australian actress \n− Mel Gibson, Russel Crowe, Chris Hemsworth, Liam Hemsworth are famous actors \n− The singer Kylie Minogue comes from Australia \n \nPopular sports \n− Australian Football and Rugby League are the most popular sports. \n− Cricket is another popular sport \n− Australians also enjoy Rugby Union and field hockey \n \nDoplňující otázky \n1. Where in the world do you find Australia? \n− Australia is in the southern hemisphere on its own continent. \n \n2. Is the Australia a bigger or a smaller country? \n− Although the continent Australia is the smallest in the world, the country is the 6th largest \nin the world. \n \n3. How many states are part of Australia? \n− Australia consists of 6 states and 2 main territories",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Office Word 2007",
+        "creator": "Microsoft® Office Word 2007",
+        "creationdate": "2019-05-20T22:07:26+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-05-20T22:07:26+02:00",
+        "source": "./database/english/australian-cities.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "australian-cities"
+      },
+      "page_content": " \n3 \n \n4. Who are the neighbouring countries of Australia? \n− Australia lies between the Pacific and Indian Ocean – It is located 2 000 km from New \nZealand \n \n5. What is the largest city in Australia and which one is the capital city? \n− Australia’s largest city is Sydney \n− The capital city of Australia is Canberra \n \n6. Who are the people of Australia and what is their origin? \n− The native people of Australia are called Aborigines \n− The first Europeans started significantly settling Australia at the end of 18th century \n \n7. Is the countryside life the same as city life in Australia? \n− There is big difference mainly because deserts cover a significant part of Australia and there \nis not much life. So most of the people live in the big cities – like in Sydney, Brisbane, Perth, \netc. \n \n8. Who is the head of Australia now? \n− The head of Australia is the monarch of the United Kingdom – Queen Elizabeth II, her \nrepresentative is \nthe Governor General Peter Cosgrov \n \n9. What is the traditional food in Australia? \n− There is not really a special Australian way of eating in Australia. One of special \nAustralia’s food is Vegemite (salty black stuff with a strong taste, eating on their bread) or a \nPeach Melbe (delicious pudding made with peaches, cream, cake and nuts). \n \n10. Is English in Australia the same as the British English? \n− No it is not, a lot of words is made by shortening English words, There are special words \nfor farming and the countryside (e.g. Oz – Australia, ta – thank you, bowzer – very good, Pom \n– an English person, Seppo – an American) \n \n11. What are the symbols of Australia? \n− The official symbol is a flag. The flag of Australia is a defaced Blue Ensign: a blue field \nwith the Union Jack in the canton (upper hoist quarter), and a large white seven-pointed star \nknown as the Commonwealth Star in the lower hoist quarter. The fly contains a representation \nof the Southern Cross constellation, made up of five white stars – one small five-pointed star \nand four, larger, seven pointed stars. \n \n12. Do you know any world famous Australians? \n− Vyberte si sami, koho dobře znáte ☺ (Kylie Minogue, Russel Crowe, Mel Gibson, Nicole \nKidman, Chris Hemsworth, Liam Hemsworth, Cate Blanchet) \n \n13. Which natural monument do you think is the most famous in the world? Why? \n− The most famous is the Ayers Rock, is the largest piece of stone in the world. It is 335 \nmeters high and you can see it from many kilometres away. \n \n14. What is the highest peak of the state? \n− The highest peak of the country is Mawson Peak (2 745 m a. s. l.) which lies on the Heard \nIsland.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Office Word 2007",
+        "creator": "Microsoft® Office Word 2007",
+        "creationdate": "2019-05-20T22:07:26+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-05-20T22:07:26+02:00",
+        "source": "./database/english/australian-cities.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "australian-cities"
+      },
+      "page_content": " \n4 \n \n \n15. Which sports are the most popular in Australia? \n− Australian Football and Rugby League are the most popular sports. Cricket is another \npopular sport. \n \n16. Otázky na Vaše názory: \n− Would you like to take a road trip around Australia? Which city of Australia do you like \nthe most? Would you like to go to Australia one day? Which places would you like to see? \n \nDůležitá slovíčka \n− Fonetická výslovnost není pro lepší srozumitelnost uvedena \n \ncommonwealth  (kamnvelt)  společenství \ncrossconstellation  (kroskoncelejšn)  křížové souhvězdí \nensign  (ensajn)  prapor \ngovernor general  (gavernl dženerl)  generální guvernér \nmarsupial  (marsupil)  vačnatec \nsignificant  (signifiknt)  významný, výrazný \ntasmanian devil  (tezmejnien devl)  tasmánský \nčertunemployment rate  (animplojment rejt)  míra nezaměstnanosti \nwealth   (velt)  bohatství",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T13:29:41+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T13:29:41+02:00",
+        "source": "./database/english/British-Cities.pdf",
+        "total_pages": 5,
+        "page": 0,
+        "page_label": "1",
+        "document": "British-Cities"
+      },
+      "page_content": " \n \n1 \n \n \n \nBritish Cities \nAdvanced version \n \nLondon \n− It is the capital of England \n− It is in the south-east of the UK \n− It is standing on the River Thames in the south east of the island of Great Britain \n− It is 9th largest city in the world \n− One of the largest commercial centres \n− London is divided into 33 boroughs \n− London is first city, which hosted Summer Olympic Games three times \n− The population is about nine milions of people \n− The double-decker bus is an icon of London \n− There is a lot of famous sights, like London Eye, Buckingham Palace, Tower of London,  \n Big Ben \n \nLiverpool \n− It is a home of two Premier League football clubs Liverpool FC and Everton FC \n− There are two catherdrals Anglican Cathedral and Metropolitan Cathedral \n− It has more than 800 year history \n− It is a birth place of The Beatles \n \nEdinburgh \n− It is the capital of Scotland \n− It is on the east coast in the northern part of the UK \n− The fringe festival is one of the most famous festivals \n− It is dominated of its imposing 12th century castle – Holyroodhouse \n \nCardiff \n− It is the capital of Wales and also the largest city of Wales \n− There is Cardiff Castle, and the Millenium stadium which is a home of Welsh Rugby \n− It is in the south-west of the island of Great Britain \n− There is an open air museum with 40 buildings – St Fagans National History Museum \n \nCanterbury \n− In Canterbury there was murdered Thomas Becket – a archbishop of Canterbury and \nEngland’s most famous martyr",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T13:29:41+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T13:29:41+02:00",
+        "source": "./database/english/British-Cities.pdf",
+        "total_pages": 5,
+        "page": 1,
+        "page_label": "2",
+        "document": "British-Cities"
+      },
+      "page_content": " \n \n2 \n \n \n \n− Geoffrey Chaucer was inspired by this town and he wrote Canterbury Tales \nBelfast \n− It is the capital of Northern Ireland \n− It is in the north-east of the island of Ireland \n \nNottingham \n− Nottingham is known for its forest and castle because they are home to the Legendary \nRobin Hood \n \nPlymouth \n− It has a proud maritime heritage. \n− It is worth seeing for the remains of its Roman bath built 2000 years ago. \n \nOxford \n− Old university town \n− It lies on the river Thames \n− There are 35 colleges \n− Popular means of transport especially for students are bicycles \n \nCambridge \n− Old university town \n− There is river Cam \n− There are rowing competitions with Oxford every year \n− Cambridge and Oxford are big rivals \n \nStartford upon Avon \n− It is second most visited town in England \n− It is famous as the birthplace of well-known dramatist William Shakespeare \n− The top attraction is the house in Henley Street where Shakespeare was born \n− There is the Royal Shakespeare Theatre and church where Shakespeare is buried \n \nBath \n− It is worth of seeing for the remains of its Roman bath built 2 000 years ago \n− It is a health spa with springs used from Romans",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T13:29:41+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T13:29:41+02:00",
+        "source": "./database/english/British-Cities.pdf",
+        "total_pages": 5,
+        "page": 2,
+        "page_label": "3",
+        "document": "British-Cities"
+      },
+      "page_content": " \n \n3 \n \n \n \nWinchester \n− Old cathedral town \n− It was the capital of England at one point in history \n \nBrighton \n− It is famous seaside town with Arab architecture including the Royal Pavilion \n− Around the Pavilion there are big gardens \n− This town is near the sea and you can go to the beach or walk on the promenade \n− There are many casinos and funs. \n \nSalisbury \n− It is in Salisbury Plain where we can see a beautiful historic monument of Stonehenge \n− Stonehenge is giant stone circle which are more than 5 000 years old, the purpose of this \nconstruction is unknown – probably religious and astronomical reasons \n \nManchester \n− We can visit the Museum of Science and Industry, The Air and Space Museum there \n− It is a home of one of the most famous football team Manchester United \n \nBirmingham \n− It is a geographical heart of England and second largest city in Britain \n− We can see interesting Victorian architecture here \n− It is famous for its Cadbury's chocolate museum \n−  \n \nDoplňující otázky \n1. How many times London hosted the Summer Olympic games? \n− London is first city, which hosted Summer Olympic Games three times. \n \n2. What town is the home of Robin Hood? \n− Nottingham is home to the Legendary Robin Hood. \n \n3. Which big cities are lying on the river Thames? \n− The cities that lie on the river Thames are London and Oxford. \n \n4. What city is the birth place of Beatles? \n− It is Liverpool.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T13:29:41+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T13:29:41+02:00",
+        "source": "./database/english/British-Cities.pdf",
+        "total_pages": 5,
+        "page": 3,
+        "page_label": "4",
+        "document": "British-Cities"
+      },
+      "page_content": " \n \n4 \n \n \n \n \n5. What city is the birth place of William Shakespeare? \n− His birth place was Stratford-upon-Avon. \n \n6. How far is Oxford from Cambridge? \n− Cambridge is a little more than 100 kilometres away from Oxford. \n \n7. What is second most visited city of England? \n− It is Stratford-upon-Avon, the birth place of W. Shakespeare. \n \n \n \n8. What are the common things between Oxford and Cambridge? \n− They are old university cites. \n− Both of the cities lie on some river. \n− There are rowing competitions between the towns. \n− Cambridge and Oxford are big rivals. \n \n9. Which cities would you like to visit? Why? \n− I would like to visit … (pick the best for you) \n \n10. Which city is the one where is held one of the tennis grandslams every year? \n− The grandslam takes place in south-west part of London. \n− The name of the grandslam is Wimbledon. \n \n11. What nickname has the underground of London? \n− It is called the Tube. \n \n12. Which city is the nearest to Stonehenge? \n− The nearest city is Salisbury. \n \n13. What is the geographical heart of England? \n− It is Birmingham. \n \n14. Which city was destroyed by the great fire in 1666? \n− The city that was destroyed was London \n− The only part, which escaped the fire, was Westminster Hall \n \n15. What are the famous sights of London?",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T13:29:41+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T13:29:41+02:00",
+        "source": "./database/english/British-Cities.pdf",
+        "total_pages": 5,
+        "page": 4,
+        "page_label": "5",
+        "document": "British-Cities"
+      },
+      "page_content": " \n \n5 \n \n \n \n− Pick the most memorable for you. :) \n \n16. Otázky na Vaše názory: \n− Would you like to take a trip to London? Which part of UK do you like the most? Which \nplaces would you like to see? \n \nDůležitá slovíčka \n− Fonetická výslovnost není pro lepší srozumitelnost uvedena \nborough (borou) čtvrť \nburied (berid) pohřben \ncliffs (klifs) útesy \nfringe (frindž) netradiční \ngiant (džájent) obrovský \nheritage (heritejž) dědictví \nimposing (impouzing) působivý, impozantní \nmaritime (maritajm) námořní, pobřežní \nmartyr (martr) mučedník \nmurder (mrdr) vražda \nremain (rimajn) zůstat \nrowing (rouing) veslování \nspa  (spa) lázně \ntale  (tejl) příběh, pohádka \nunknown (announ) neznámý",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:40:15+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:40:15+02:00",
+        "source": "./database/english/Conditions-and-Terms_of_work_Applying_for_a_jobs.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "Conditions-and-Terms_of_work_Applying_for_a_jobs"
+      },
+      "page_content": " \n1 \n \nApplying for a job \nLonger version \n \n If you want to apply for a job you should write a motivation letter and send a CV \n For some jobs you also need a portfolio (a gallery of things you have created) \n It is better to always write new motivation letter to new job application \n A recommendation from prior employer can help you \n Look at websites with job offers \n Some of the websites offer to have a profile there \n If you have some companies where you would like to work, look also at their websites, not every \njob offer is viewed on common sites with job offers \n read the description of the job you are applying to, usually the things that are first are the things \nyou will do most of the time, it protects you from unfulfilled expectations \n \nMOTIV A TION LETTER \n If you know who you are writing to start with Dear Mr . xxx  \n You should respond to questions like why did you chose that job, why should they choose you, \nwhat strengths for the job you have \n It should also include description of your experience with similar job if you have any \n At the end of it it is good to write that if they have any questions, they can contact you on your \nnumber xxx xxx xxx or your email \n It shouldn’t be too long, 3 or 4 paragraphs are enough \nCV (curriculum vitae) \n In head of the CV should be your representative photo, contacts, your age or date of birth and \nnationality \n Y our CV should include all working experiences, language, information about your education \nand strengths, light skills and other skills \n You can add your hobbies if you want \n The graphic side of the CV is also important, better looking CV picks up more much needed \ninterest between the tenths the personalists get \n You should save the CV in pdf format, because in text editor format it can scatter all over the \npage and look chaotic when the personalist opens it",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:40:15+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:40:15+02:00",
+        "source": "./database/english/Conditions-and-Terms_of_work_Applying_for_a_jobs.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "Conditions-and-Terms_of_work_Applying_for_a_jobs"
+      },
+      "page_content": " \n2 \n \n There are some generators or templates for creating a CV \n \n \nJOB INTERVIEW \n It is important to come neat and in formal clothing (tux, dress, skirt) \n It is important to prepare for the interview, you should know the basic info about the company \n Some companies will send you some task that you have to bring with you \n Be prepared to answer questions like why that company, where do you see yourself in 5 years, \nwhat amount of money you would like to have per hour/day and also the ones described in \nwriting motivation letter \n If you have some foreign language in your CV be prepared to say something in it \n Try to do your best and leave the best impression \n \nOptions of working \n You can work part-time or full time \n You can also work as a volunteer, especially in institutions focused on taking care of people, \nvolunteering is not paid, but it can be very good experience or way to helping others \n You can also go on internship, paid or unpaid \n It is also possible to be self-employed \n If you are studying, you can go on practice somewhere, which is usually unpaid \n \nTerms of work \n You should go to work on time and be responsible, fill your tasks, otherwise you can get fired \n You must have recommended qualification \n You must pay taxes from your salary \n Every bigger company has its own terms of work \n If you have any problems or you need to turn in something, go to human resources or the head \nof your department \n Every country has Labour Code, it is good to know your rights  \n If you aren’t EU citizen, you must have working visa or green card to work here \n You can’t work in Czech Republic if you are not at least 15 years old  \n You must have signed contract of employment",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:40:15+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:40:15+02:00",
+        "source": "./database/english/Conditions-and-Terms_of_work_Applying_for_a_jobs.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "Conditions-and-Terms_of_work_Applying_for_a_jobs"
+      },
+      "page_content": " \n3 \n \n You are responsible for things described in the contract, you can also get work phone/PC, these \nthings can be monitored \n Some companies have dress code, you need to follow it \n \nWorking in a company \n It is good to cooperate with the others \n Don’t be afraid to ask for help from other colleague or your boss \n You can get some benefits with your salary \n \nDoplňující otázky \n \n1. What is your dream job? \n I would like to work as … / My dream job is … \n1a. What are the advantages and disadvantages of the job? \n1b. Why did you choose that job? / What you like about the job? \n2. What should be included in a CV? \n CV should include your photo, personal information (such as nationality, …), job experiences, \nstrengths, skills, information about your education, … (pick the things you remember the most) \n3. Which is more important for you: enjoy your work or be paid well? Why? \n I prefer to enjoy what I am doing/ to be well paid / both – I would like to have well paid job that I \nenjoy …  \n4. Have you ever had a part-time job? Tell me about it. \n Yes, I have worked as … / No, I have not had a part-time job. \n5. Should teenagers have a part-time job? Why? / Why not? Tell me your opinion. \n I think that … / My opinion is …  \n6. What would you do if you couldn’t find work? Tell me about it. \n I would …  \n7. Would you like to do your parents’ job? Why? / Why not? \n Yes, I would like to. / No, I wouldn’t.  \n8. Would you like to work as a cook/other job? Why? / Why not? \n Yes, I would, I like cooking. / No, I wouldn’t, I hate cooking/am not much of a good cook.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:40:15+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:40:15+02:00",
+        "source": "./database/english/Conditions-and-Terms_of_work_Applying_for_a_jobs.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "Conditions-and-Terms_of_work_Applying_for_a_jobs"
+      },
+      "page_content": " \n4 \n \n \n9. What should you prepare for a job interview?  \n It is good to know the basics of the company, be prepared to answer questions like … (pick the  \nones you remember the most). I should pick some formal clothes. \n10. Which jobs are more suitable for men and which for women? Why? \n I think …  \n \n \nDůležitá slovíčka \n Fonetická výslovnost není pro lepší srozumitelnost uvedena \nadvantages (edvántidžis) výhody \nbasics  (bejziks) základní informace \ncontract of employment (kontrakt of implojment) zaměstnanecká smlouva \ndisadvantages (dizedvántidžis) nevýhody \nemployer (implojr) zaměstnavatel  \nenough (ináf) dostatek \nEU citizen (eu sitizn) občan EU \nhuman resources  (hjumn risourcis) lidské zdroje – zaměstnanecké \nodd. \ninternship (intrnšip) stáž \nlabour code (lejbr koud) zákoník práce \nnationality (nejšnality) občanství, národnost \nprior (prajer) předchozí, bývalý \n  \nrecommendation (rikomendejšn) doporučení \nscatter (sketr) rozházet \nself-employed (self-implojd) živnostník, podnikatel \nstrengths (strents) silné stránky \nsuitable  (sútebl) vhodný \ntaxes (texis) daně \ntenths (tents) desítky \nunfulfilled (anfulfild) nenaplněný",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:14:42+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:14:42+02:00",
+        "source": "./database/english/CzechRepublic.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "CzechRepublic"
+      },
+      "page_content": " \n1 \n \n \nThe Czech Republic \nadvanced version \n \nBasic Facts \nThe Czech Republic is a landlocked country, which is situated in Central Europe. It has a population \nof 10.5 million. It covers an area of 78,866 square kilometres. The capital and the largest city is \nPrague. The currency is the Czech Crown. The local language is Czech. The Czech Republic \nconsists of the historic lands of Bohemia, Moravia and Silesia, and 14 regions. It is the member of \nthe European Union, the North Atlantic Treaty Organisation and the United Nations. \n \nHistory \nArchaeologists have found evidence of prehistoric human settlements in the area. The V enus of \nDolní Věstonice is the oldest known ceramic article in the world. In the 9th century the area was \nChristianized with a crucial role being playe d by the Byzantine mission of Cyril and Methodius. \nThey created the artificial language called Old Church Slavonic and the Glagolitic alphabet. In 935 \nDuke Václav was killed by his brother Boleslav. Václav became the patron saint of the country. The \nCzech kingdom expanded during the reign of Přemysl Otakar II and Charles IV . Charles IV \nestablished an Archbishopric and founded Charles University. In 1402 Bohemian Revolution was \nstarted by Jan Hus. During the next two centuries, most inhabitants were consider ed Hussites. The \nkingdom was absorbed into Habsburg Empire in the 16 th century. The Czech National Revival was \na cultural movement which took place during the 18 th and 19th centuries. Its purpose was to revive \nthe Czech language, culture and national ident ity. In 1918, after the collapse of the Austro -\nHungarian Empire, the independent republic of Czechoslovakia was created. Tomáš Garrigue \nMasaryk became the first president. During the Second World War the Czech territory was occupied \nby Germany. In 1948 the  Communist Party took control of Czechoslov akia. For the next 41 years, \nit was a Communist state within the Eastern Bloc. On 17 th November, 1989, the V elvet Revolution \nbegan democratic changes in the society. On 1 st January 1993, Czechoslovakia was peacefu lly split \ninto the independent Czech Republic and Slovakia. The first President was Václav Havel. In 2004 \nthe Czech Republic joined the European Union. \n \nGeography \nThe Czech Republic is bordered by Germany to the west, Poland to the northeast, Slovakia to t he \neast and Austria to the south. The highest point is Sněžka (1603 m). It is located in the Krkonoše \nMountains on the border between the Czech Republic and Poland. There are four national parks. \nThe oldest one is Krkonoše National Park. The others are Šum ava National Park, Podyjí National \nPark and Bohemian Switzerland. The climate is mostly continental. Summers are warm and winters \nare cold, cloudy and snowy. The warmest area is the South Moravian Region. Most rain falls during \nthe summer. Many rivers such  as the Labe, the Vltava and the Morava flow through the country. \nLabe is the most important river. It rises in the Krkonoše Mountains, flows through Bohemian \ntowns such as Mělník and Děčín, crosses Germany and drains into the North Sea at Hamburg. In the \nMoravian Karst there are caves and the gorge Macocha. \n \nGovernment and Politics \nThe Czech Republic is a parliamentary democracy. The parliament is bicameral. It consists of the \nHouse of Deputies (200 members) and the Senate (81 members). The head of state i s the President. \nHe is elected directly for a five -year term. The President appoints the Prime Minister, who is head \nof government.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:14:42+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:14:42+02:00",
+        "source": "./database/english/CzechRepublic.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "CzechRepublic"
+      },
+      "page_content": " \n2 \n \n \n \nEconomy \nThe Czech Republic has a developed export-oriented economy. The unemployment rate is very low. \nEngineering plays the most important role in Czech industry. Škoda Auto is one of the largest car \nmanufacturers in Central Europe. Other important branches are metalurgical and chemical \nindustries. Typical Czech products are cars, beer, coal, glass and jewellery. The princi pal crops \ngrown in the Czech Republic are barley, wheat, corn, rye and sugar beets. Farmers raise for example \nfowl, pigs, cattle and sheep. The Třeboň Ponds are well-known for fish farming. \n \nDemographics \nThe majority of the inhabitants are Czechs. They are descendants of Slavic people. About 500,000 \nforeigners live in the country. The largest groups are Slovak, Ukrainian, Vietnamese and Russian. \nThe Czech Republic has one of the least religious populations in the world. The major religion is \nCatholicism. Education in the Czech Republic is compulsory for 9 years. Citizens have access to \ntuition-free university education. \n \nPlaces of Interest \nThere are many historical sights and natural wonders in the Czech Republic. It gets a substantial \nincome from tourism. Pr ague is the 5 th most visited European city. There are many castles in the \ncountry, for example Karlštejn, Křivoklát, Hluboká and Konopiště. The castle of Karlštejn was built \nas a place of safe -keeping for the crown jewels. There are also famous spa towns. The oldest ones \nare Karlovy V ary, Mariánské Lázně and Františkovy Lázně in western Bohemia. The Krkonoše \nMountains and the Šumava Mountains provide many good opportunities for skiing. The Czech \nRepublic is also known for its various museums.  \n \nDoplňující otázky \n1. What does the flag of the Czech Republic look like? \nIt consists of a blue triangle and two horizontal bands: one white and one red. \n \n2. What does the coat of arms of the Czech Republic look like? \nIt displays the three historic regions. The arms of  Bohemia show a silver double-tailed lion on a red \nbackground. The Moravian red -and-silver chequered eagle is shown on a blue background. The \narms of Silesia are a black eagle on a golden background. \n \n3. Which Czechs have won the Nobel Prize? \nTwo Czech personalities in history have won the Nobel Prize. Jaroslav Heyrovský was awarded the \nNobel Prize for Chemistry in 1959 for the invention and development of the polarographic method. \nThe poet Jaroslav Seifert was awarded the Nobel Prize in Literature in 1984. \n \n4. Which places of interests have been listed as UNESCO sights? \nThe historical centre of Prague, the historical centre of Český Krumlov, the historical centre of Telč, \nthe Pilgrimage Church of Jan Nepomuk in Zelená Hora, Kutná Hora, Lednice -V altice Cultural \nLandscape, Holašovice, Kroměříž Castle and Gardens, Litomyšl C astle, Holy Trinity Column in \nOlomouc, Villa Tugendhat in Brno and Třebíč. \n \n5. What do you know about the national anthem of the Czech Republic? \nThe national anthem of the Czech Republic is Kde domov můj (Where is my home). It was written \nby the composer František Škroup and the playwright Josef Kajetán  Tyl. It was first performed \nat the Estates Theatre in Prague in 1834.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:14:42+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:14:42+02:00",
+        "source": "./database/english/CzechRepublic.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "CzechRepublic"
+      },
+      "page_content": " \n3 \n \n \n \n6. What do you know about sport in the Czech Republic? \n \nThe two most po pular sports are football and ice hockey. They get the most attention from the \nmedia and the public. The Czech national ice hockey team is one of the most successful teams in \nthe world. The other sports with professional teams are for example basketball, volleyball, athletics, \nhandball and floorball. Winter sports such as skiing and biathlon are also popular. The Great \nPardubice Steeplechase is the longest-running racing event on the European continent. \n7. Which composers were born in the Czech Republic? \nThe most famous ones are Antonín Dvořák, Bedřich Smetana and Leoš Janáček. Antonín Dvořák is \nthe author of Slavonic Dances and the symphony From the New World. Bedřich Smetana composed \na symphonic poem called Vltava. Leoš Janáček is famous for his operas whi ch are based on Czech \nstories. \n \n8. What do you know about Czech cuisine? \nCzech meals typically consist of three courses. The first one is soup, the second one is the main dish \nand the third one is dessert. The most popular traditional main dishes are roast  pork with cabbage \nand dumplings, beef sirloin with cream sauce and fruit dumplings. The most popular drink is beer. \n \n9. What do you know about Czech language? \nCzech is a West Slavic language. 10 million people speak it. It is very similar to the Slovak \nlanguage. Its vocabulary has been extensively influenced by Latin and German. The modern written \nstandard was codified during the Czech National Revival. \n \n10. What do you know about important Czech cities except Prague? \nBrno is the second largest city by population and area. It is the seat of judicial authority. Ostrava is a \ncentre for metallurgical industries. Plzeň is known for its breweries. Liberec is mostly associated \nwith the Ještěd Tower and white tigers. Olomouc has numerous historic religious buildin gs and the \nHoly Trinity Column, which is a UNESCO World Heritage Site. \n \nDůležitá slovíčka \nlandlocked   (lendlokt)   vnitrozemský \ncurrency   (karnsi)   měna \nrevive    (rivajv)   oživit, obnovit \ndrain    (drejn)    odtékat \ngorge    (górdž)    rokle \nbicameral   (bikemerl)   dvojkomorový \nappoint   (apojnt)   jmenovat \nHouse of Deputies  (haus of depjtís)  Poslanecká sněmovna \nbranch    (bránč)    odvětví \ncoal    (koul)    uhlí \njewellery   (džůlry)   šperky \ncrop    (krop)    plodina \nbarley    (bárly)    ječmen \nwheat    (uít)    pšenice \nrye    (ráj)    žito \nfowl    (faul)    drůbež \ncattle    (ketl)    dobytek \nsugar beet   (šugr bít)   cukrová řepa \ndescendant   (disendnt)   potomek",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:14:42+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:14:42+02:00",
+        "source": "./database/english/CzechRepublic.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "CzechRepublic"
+      },
+      "page_content": " \n4 \n \n \n \ncoat of arms   (kout ov armz)  erb \nPilgrimage Church  (pilgrimidž črč)  poutnický kostel \nHoly Trinity Column  (houly trinity kolm)  Sloup Nejsvětější Trojice \nanthem    (entm)    hymna \ncomposer   (kompouzr)   skladatel \nplaywright   (plejrajt)   dramatik \nsteeplechase   (stýplčejs)   dostih \ndumplings   (damplins)   knedlíky     \nsirloin    (srlon)    svíčková \njudicial   (džudišl)   soudní",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:31:12+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:31:12+02:00",
+        "source": "./database/english/Educational_systems_in_CZ_UK_and_USA.pdf",
+        "total_pages": 5,
+        "page": 0,
+        "page_label": "1",
+        "document": "Educational_systems_in_CZ_UK_and_USA"
+      },
+      "page_content": " \n1 \n \nCzech Republic \nLonger version \n \n In the Czech Republic, we have kindergartens (age 3-6), primary education (age 6-15), secondary \neducation/ high school (age 15-18), and tertiary education \n  \nKindergartens \n Usually for children from 3 to 6 yrs old, but sometimes there are younger or older children \n The last year before going to school is compulsory now \n It is usually the first place for children to socialize without parents \n It prepares the children for school \n \nPrimary school \n Usually for children from 6/7 years old to 15/16 years old \n It is divided into two parts:  \n1. part – 1st to 5th grade – 6 to 11 years \n2. part – 6th to 9th grade – 12 to 15 years \n It is a compulsory \n Children that have some handicap and can’t go to classic school go to special schools \n \nHigh school \n usually for children from 15/16 years old to 18-20 years old \n You can study for 3 or 4 years \n The schools for 3 years are ended with exams, you will get vocational certificate when you pass \nit, the schools are specialized in some department \n the schools for 4 years are ended with school leaving exam called maturita, it is either \ngymnasium or specialized school \n \nUniversities \n the most famous is Charles university in Prague and Masaryk University in Brno \n You can go there only if you have passed the maturita exam \n The public universities are free of charge if you are under 26 years, and the length of study is not",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:31:12+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:31:12+02:00",
+        "source": "./database/english/Educational_systems_in_CZ_UK_and_USA.pdf",
+        "total_pages": 5,
+        "page": 1,
+        "page_label": "2",
+        "document": "Educational_systems_in_CZ_UK_and_USA"
+      },
+      "page_content": " \n2 \n \nhigher than the usual length plus one year (Bachelor 3+1 year, Master 2+1 year) \n The private universities are charged \n \nUnited Kingdom \n there are primary schools (age 5-11), and secondary schools (age 11-16). There is also higher \neducation, universities, that last usually 3-4 years. \n When the students are 16, they have to take the principle examinations.  \n \n \nPrimary school \n Usually for children from 5 to 11 years  It is compulsory \nSecondary school \n Usually for children from 11 to 16 years \n When the students are 16, they have to take the principle examinations \n It is compulsory \n there are several types of secondary schools, most of the students go to comprehensive ones \nUniversities \n The famous is for example Oxford or Cambridge university \n They usually last 3-4 years  students have to pay annual tuition \n \nUSA \n In the USA, there are elementary schools (age 6-11), middle schools (age 11-14), high schools \n(14-18). There are also universities and colleges, which usually last 4 years. \nElementary school \n Usually for children from 6 to 11 years  It is compulsory \nMiddle schools \n Usually for children from 11 to 14 years  It is compulsory \nHigh schools \n Usually for children from 14 to 18 years  It is compulsory to 16 years \n High schools in the US last 4 years and students receive the High School Diploma \nUniversities and colleges \n They usually last 4 years  Many of the American universities and colleges are very expensive.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:31:12+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:31:12+02:00",
+        "source": "./database/english/Educational_systems_in_CZ_UK_and_USA.pdf",
+        "total_pages": 5,
+        "page": 2,
+        "page_label": "3",
+        "document": "Educational_systems_in_CZ_UK_and_USA"
+      },
+      "page_content": " \n3 \n \n \nDoplňující otázky \n \n1. How can be the school system divided in the Czech Republic, Great Britain, and in the USA? \nTell me about it. \n In the Czech Republic, we have kindergartens (age 3-6), primary education (age 6-15), \nsecondary education/ high school (age 15-18), and tertiary education. \n In Great Britain, there are primary schools (age 5-11), and secondary schools (age 11-16). \nWhen the students are 16, they have to take the principle examinations. There is also higher \neducation, universities, that last usually 3-4 years. \n In the USA, there are elementary schools (age 6-11), middle schools (age 11-14), high schools \n(14-18). There are also universities and colleges, which usually last 4 years. \n \n2. Is the school attendance compulsory? Tell me about it. \n In the Czech Republic, it is compulsory for children from the age of 6 to 15. \n In Great Britain, school attendance is compulsory from 5 to 16.  \n And in the USA, it is compulsory from the age of 6 to 16. \n \n3. What is secondary education like?  \n Secondary education in the Czech Republic  usually lasts 3/4 years. The students can either \nattend grammar schools (gymnasium) or specialized schools . They finish with a school -\nleaving exam, called maturita or vocational certificate.  \n In Great Britain, there are several types of secondary schools, but most of the students go to \ncomprehensive ones.  \n High schools in the US last 4 years and students receive the High School Diploma. \n \n4. What is tertiary education?  \n Tertiary education is anything beyond the high school level \n Students receive undergraduate and graduate certificates, and bachelor’s, masters and doctoral \ndegrees. \n \n5. Are universities free? Tell me about it. \n In the Czech Republic, public universities are free of charge. Students need to pay for private",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:31:12+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:31:12+02:00",
+        "source": "./database/english/Educational_systems_in_CZ_UK_and_USA.pdf",
+        "total_pages": 5,
+        "page": 3,
+        "page_label": "4",
+        "document": "Educational_systems_in_CZ_UK_and_USA"
+      },
+      "page_content": " \n4 \n \nuniversities.  \n In Great Britain and the USA, students have to pay annual tuition. Many of the American \nuniversities and colleges are very expensive. \n6. What is the difference between public and private schools?  \n One of the major differences is funding. State schools are funded by the government, while \nprivate schools are not. Another difference is school and class size. Private schools are usually \nsmaller in size. \n \n7. What is the grading system like?  \n In the CZE, the grading system is from 1 to 5, with 1 as the best and 5 as the worst.  \n In the UK, they use a letter grading system from A to E, where A means excellent and E means \nfail. \n In the USA, they also use a letter grading system from A to F, where A means excellent and F \nmeans fail. \n \n8. Do students have to wear uniforms?  \n Czech students don’t wear uniforms  In the UK, it is common to wear uniforms \n In the USA, most of the schools don’t require uniforms but there is a dress code \n \n9. How old are the students when they graduate from high school?  \n In the Czech Republic, students are usually 19 when they graduate from high school \n In the UK, they receive the General Certificate at the age of 16 \n In the states, students graduate when they are 17 or 18 years old. \n \n10. What are the best universities in the Czech Republic, Great Britain, and in the USA?  \n The best universities in the CZE are Charles University and Masaryk University.  \n In the UK it is the University of Oxford and the University of Cambridge.  \n And in the USA, it is the MIT, Stanford University, and Harvard University.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-08-25T19:31:12+02:00",
+        "author": "Lucie Rejmanova",
+        "moddate": "2019-08-25T19:31:12+02:00",
+        "source": "./database/english/Educational_systems_in_CZ_UK_and_USA.pdf",
+        "total_pages": 5,
+        "page": 4,
+        "page_label": "5",
+        "document": "Educational_systems_in_CZ_UK_and_USA"
+      },
+      "page_content": " \n5 \n \n \nDůležitá slovíčka \n Fonetická výslovnost není pro lepší srozumitelnost uvedena \nannual tuition (anuul ťuišn) roční školné \ncompulsory (komplzury) povinný \ndivided (dajvajdid) rozdělený \nfunding (fanding) placení \ncharged (čardžid) placený \nreceive (risív) obdržet \nvocational certificate (vokejšnl sertifikejt) odborné osvědčení",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-07-21T11:55:09+02:00",
+        "author": "cnb",
+        "moddate": "2019-07-21T11:55:09+02:00",
+        "source": "./database/english/Environment.pdf",
+        "total_pages": 3,
+        "page": 0,
+        "page_label": "1",
+        "document": "Environment"
+      },
+      "page_content": " \n \n1 \n \nEnvironment \nAdvanced version \n \nNatural environment is everything around us. It includes people, animals, plants, air, water, sunlight, \nrocks etc. Natural resources are things in the natural environment we value. There are two sorts of \nnatural resources: renewable and non -renewable resources. Renewable resources can be used \nrepeatedly, for example water, sunlight and wood. Non -renewable resources, such as coal and \nnatural gas, are used up faster than they can be made by nature. People try to protect the re sources \nbecause the quality of life gets lower when we do not have them. There are many environmental \nproblems, for example air and water pollution, global warming, the ozone hole and deforestation. \n \nPollution \nPollution means that there are harmful substan ces in the environment. One of the worst air \npollutants is carbon dioxide, which comes from burning fossil fuels. Other ones are methane and \nCFCs. Air pollution leads to health problems, such as asthma and lung diseases. It also causes the \ndeterioration of the ozone layer and global warming. Water pollution can be caused by toxic waste \nand chemicals which are used to kill pests in agriculture. Toxic waste kills fish and gets into our \ndrinking water and food. It is estimated that 4000 children die every ye ar from drinking dirty water. \nLand can become polluted by household rubbish and by industrial waste. Noise pollution happens \nwhen the sound coming from industry or traffic reaches harmful levels. It causes stress -related \nillnesses, high blood pressure and hearing loss. \n \nGlobal Warming \nIt is caused by the greenhouse effect. Carbon fossil fuels are burned to produce energy. A lot of \ncarbon dioxide gets into the atmosphere. It traps the sun's heat and this is making the Earth warmer. \nOther causes of global w arming are deforestation, population growth and the destruction of marine \necosystems. Ice melts and sea level rises. Some small islands may disappear. Some regions become \nwetter, whereas others become dryer. Climate change also leads to desertification. Th e global \ntemperature of the planet has risen 1.1°C since the Industrial Revolution. \n \nThe Ozone Hole \nOzone is a gas whose molecules are comprised of three oxygen atoms. The ozone layer is a \nprotective layer in Earth's atmosphere. It is destroyed by CFCs. Th ese dangerous substances are \nused in aerosol sprays and refrigerators. Atmospheric ozone absorbs ultraviolet radiation from the \nsun. Exposure to UV radiation increases risk of skin cancer and damage to plants and marine \necosystems. In 1987 the Montreal Pro tocol was signed. It is an international treaty which was \ndesigned to protect the ozone layer by eliminating the use of CFCs. \n \nDeforestation \nTrees are cut down for wood or burned to clear the land for farming. This is a problem because \nrainforests help to control global warming. They absorb carbon dioxide. It is estimated that about 20% \nof global warming is due to deforestation. It also leads to the extinction of many species of forest \nanimals. The Earth loses 18.7 million acres of forests per year. The mos t well-known case is the \nAmazon rainforest in northern Brazil, but deforestation also takes place for example in Indonesia, \nThailand and the Democratic Republic of Congo. \n \nDoplňující otázky \n1. What can you do to help our environment as a single individual? \nWe can reduce the use of cars. For example, we can share cars or use the public transport. We can \nuse recycling bins. When you go shopping, use reusable bags instead of plastic bags. It is also \nimportant to save energy.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-07-21T11:55:09+02:00",
+        "author": "cnb",
+        "moddate": "2019-07-21T11:55:09+02:00",
+        "source": "./database/english/Environment.pdf",
+        "total_pages": 3,
+        "page": 1,
+        "page_label": "2",
+        "document": "Environment"
+      },
+      "page_content": " \n \n2 \n \n \n2. What types of materials can we recycle? \nWe can recycle paper (blue bin), plastic (yellow bin), glass (green or white bin), beverage cartons \n(orange bin) and metal (grey bin). Some shops accept electronic waste. Y ou can also return beer \nbottles at supermarkets. \n \n3. What natural disasters do you know? \nFloods, hurricanes, tornadoes, volcanic eruptions, blizzards, earthquakes and tsunamis. \n \n4. What is a hurricane? \nIt is a violent storm with strong winds and heavy rain. \n \n5. What is a blizzard? \nIt is a storm with a lot of snow and strong winds. \n \n6. How can we save energy at home? \nWe can use the sun to dry wet clothes, turn lights and electronics when we leave a room and take \nshort showers instead of baths.  \n \n7. What is climate change? \nIt means that there are global changes in the temperature, rainfall etc. \n \n8. What is wildlife? \nAnimals and plants that grow independently of people. \n \n9. What are endangered species? \nAnimals and plants in danger of disappearing in the near future (they are likely to become extinct). \nThe most endangered species are amur leopards, gorillas, sea turtles, orangutans and elephants. \n \n10. What is biodiversity? \nIt is the variety of life on Earth. \n \n11. What is alternative energy? \nAlternative energy is energy that does not come from fossil fuels. Sunlight, wind, rain, wav es and \ngeothermal heat are alternative sources of energy. They are renewable. About 16% of global final \nenergy consumption comes from renewable resources. \n \nDůležitá slovíčka \nenvironment    (invajrnment)    životní prostředí \nrenewable resources   (ryňůebl rysr'sis)   obnovitelné zdroje \ncoal     (koul)     uhlí \nnatural gas    (nečr'l ges)    zemní plyn \npollution    (polůšn)    znečištění \nglobal warming   (gloubl wormin)   globální oteplování \nozone hole    (ouzoun houl)    ozonová díra \ndeforestation    (diforistejšn)    odlesňování \nharmful substances   (hámfl sabst'nsiz)   škodlivé látky \ntoxic waste    (toxik wejst)    toxický odpad \npests     (pests)     škůdci \ngreenhouse effect   (grýnhaus ifekt)   skleníkový efekt \nfossil fuels    (fos'l fjů'ls)    fosilní paliva",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-07-21T11:55:09+02:00",
+        "author": "cnb",
+        "moddate": "2019-07-21T11:55:09+02:00",
+        "source": "./database/english/Environment.pdf",
+        "total_pages": 3,
+        "page": 2,
+        "page_label": "3",
+        "document": "Environment"
+      },
+      "page_content": " \n \n3 \n \ncarbon dioxide   (kábon dájoxájd)   oxid uhličitý \ntrap     (trep)     chytit \nultraviolet radiation   (altr'vaj'let rejdiešjn)   ultrafialové záření \nozone layer    (ouzoun lejr)    ozonová vrstva \nflood     (flad)     povodeň \nvolcanic eruption   (volkenik irapšn)   výbuch sopky \nblizzard    (bliz'd)     sněhová bouře \nearthquake    (érfkwejk)    zemětřesení \nendangered species   (indejndžrd spíšíz)   ohrožené druhy",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:52:10+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:52:10+02:00",
+        "source": "./database/english/GreatBritain.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "GreatBritain"
+      },
+      "page_content": " \n \nUnited Kingdom \nadvanced version \n \nBasic Facts \nThe United Kingdom of Great Britain and Northern Ireland is a coun try in Western Europe. It has \na population of 66 million. The capital and the largest city is London . The currency is the pound. \nIt is divided into 100 pence. The local languages are English, Scottish and Welsh. \n \nHistory \nThe first inhabitants of the British Isles were the Iberians in about 3000 BC. They were followed by \nthe Celtic tribes, the Romans and the Anglo -Saxons. Alfred the Great captured  London in 886 from \nthe invading Danes. In 1066 King Harold was defeated and killed at the Battle of Hastings. William \nthe Conqueror became King of England. French became the offic ial language of the country. \nIn 1215 King John was forced to sign the Magna Carta. It was a charter of rights which recognized \nthe rights of barons and restricted the power of the ruler. The Magna Carta influenced the formation \nof many legal documents, for example the United States Constitution. In 1337 the Hundred Years' \nWar with France began. England lost most of its possessions on the continent. In 1349 the Black \nDeath hit England. In the 15th century the Wars of the Roses were fought between two rival families \nwho both laid claim to the throne of England: the House of Lancaster  and the House of York. \nLancastrian Henry Tudor's army defeated the Yorkist Richard III. Henry married the Yorkist \nprincess Elizabeth and brought peace to the country. Henry VIII was the second Tudor monarch. He \nis best know n for his six marriages. He want ed to have his first marriage, to Catherine of Aragon, \nannulled. The Pope disagreed. Henry VIII founded the Church of England and initiated the English \nReformation. After the Civil War between the king's army and the parliamentary forces led by \nOliver Cromwell the monarchy was restored in 1660. In the 1770s the Industrial Revolution began \nin England. In 1914 World War I began. The United Kingdom fought with Allies against the Central \nPowers led by Germany. In 1940 the United Kingdom was bombed by the German s during the \nBattle of Britain. In 1952 Elizabeth II became the Queen.  \n \nGeography \nThe United Kingdom consists of four countries: England, Wales, Sc otland and Northern Ireland. \nIt includes the island of Great Britain, the north -eastern part of the island o f Ireland and many \nsmaller islands. It is surrounded by the Atlantic Ocean, with the North Sea to the east, the English \nChannel to the south and the Celtic Sea to the west. The Irish Sea is situated between Great Britain \nand Ireland. The longest rivers are the Severn and the Thames. \n \nEngland \nEngland makes up the southern part of Great Britain. The capital city is London. The patron saint is \nSt George. The national symbols are the Tudor rose and the St George's cross. \n \nWales \nWales is situated on the western side of Great Britain. The capital city is Cardiff. The patron saint is \nSt. David. The national symbols are the daffodil and the leek. \n \nScotland \nScotland is located in the north of Great Britain. The capital city is Edinburgh. The patron saint is St \nAndrew. The national symbol is the thistle.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:52:10+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:52:10+02:00",
+        "source": "./database/english/GreatBritain.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "GreatBritain"
+      },
+      "page_content": " \n \nNorthern Ireland \nNorthern Ireland is situated in the northeast of the island of Ireland. The capital city is Belfast. The \npatron saint is St Patrick. The national symbol is the shamrock. \n \nGovernment and Politics \nThe United Kingdom is a constitutional monarchy. The head of state is Queen Elizabeth II, who has \nreigned since 1952. She is also the head of state of 15 other independent countries. These 16 \ncountries are called Commonwealth realms. The head of the governmen t is the Prime Minister. The \nParliament consists of the House of Commons and the House of Lords. The Conservative Party, the \nLabour Party and the Liberal Democrats are the UK's three major political parties. \n \nEconomy \nThe United Kingdom has the fifth largest economy in the world. London is the world's largest \nfinancial centre alongside New York and it has the largest city GDP in Europe. The Industrial \nRevolution started in the United Kingdom and many of the technological innovations were of \nBritish origin. The automotive, aerospace and pharmaceutical industries play the most important \nrole today. \n \nPlaces of Interest \n \nStonehenge \nStonehenge is a circle of huge standing stones, which is situated 13 km north of Salisbury. \nArchaeologists date the monument back to 3000 -2000 BC.  According to a legend, it was built by \nthe magician Merlin and a giant. It used to serve as a burial ground and a place of worship. \n \nStratford-upon-Avon \nStratford-upon-Avon is the second most visited city in England. It is the birthp lace and the burial \nplace of the playwright William Shakespeare. \n \nHadrian's Wall \nThis popular  tourist attraction is situated in Northern England. It was built as a defensive \nfortification during the reign of Emperor Hadrian. \n \nThe Giant's Causeway \nIt is sit uated on the northern coast of Northern Ireland. It is an area of over 40,000 massive black \ncolumns. They were created during an ancient volcanic eruption. \n \nCornwall \nIt is a county of England and one of the most popular holiday destinations in Britain. It is suitable \nfor sailing, surfing and rowing. Cornwall is known for its pasties, a savoury dish made with pastry. \n \nLoch Ness \nIt is a lake in the Scottish Highlands. According to legends, it is the home of the Loch Ness Monster. \n \nDoplňující otázky \n1. What does the flag of the UK look like? \nThe national flag of the United Kingdom is the Union Jack. It is blue, red and white. It consists of \nthe cross of Saint George, the cross of Saint Patrick and St. Andrew’s Cross.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:52:10+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:52:10+02:00",
+        "source": "./database/english/GreatBritain.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "GreatBritain"
+      },
+      "page_content": " \n \n2. What is the national anthem of the UK? \nThe national anthem of the United Kingdom is \"God Save the Queen\". When there is a king instead \nof a queen it becomes \"God Save the King\". \n \n3. What are the biggest cities in the UK? \nLondon, Birmingham, Glasgow, Liverpool, Leeds, Sheffield and Edinburgh. \n \n4. What is the highest point of the UK? \nThe highest point of the UK is Ben Nevis (1,345 m). It is located in the Grampian Mountains in the \nScottish Highlands. \n \n5. What do you know about British cuisine? \nWell-known traditional British dishes are full breakf ast, fish and chips and the Christmas dinner. \nFull breakfast includes bacon, sausages, eggs and baked beans. The Christmas dinner consists of \nturkey, cranberry sauce, potatoes and Christmas pudding. \n \n6. What do you know about sport in the UK? \nThe most popular sports are football, rugby, cricket, horseracing, swimming and tennis. \n \n7. What do you know about William Shakespeare? \nHe was an English playwright, poet, and actor. He was born in Stratford -upon-Avon. He wrote for \nexample Romeo and Juliet, Hamlet, Macbeth, King Lear and A Midsummer Night’s Dream. \n \n8. Which British scientists and inventors do you know? \nCharles Darwin is famous for the theory of evolution. Alexander Graham Bell invented the \ntelephone. Tim Berners-Lee invented the World Wide Web. \n \n9. Do you know any famous British singers or bands? \nThe Beatles were a rock band. The members of the band were John Lennon, Paul McCartney, \nGeorge Harrison and Ringo Starr. They were from Liverpool. Their most famous songs are \nYesterday, Yellow Submarine, Let It Be and She Loves You. \n \n11. What do you know about Elizabeth II? \nElizabeth II is Queen of the United Kingdom and the other Commonwealth countries. Her father \nwas King George VI. Her husband is Prince Phillip. She has four children: Charles, Anne, Andrew \nand Edward. She lives in Buckingham Palace in London. \n \nDůležitá slovíčka \ncurrency   (karnsi)   měna \ninhabitants   (inhebitents)   obyvatelé \ntribe    (trajb)    kmen, rod \ncapture    (kepčr)    dobýt \ndefeate    (dyfít)    porazit \nconqueror   (konkr’r)   dobyvatel \ncharter    (čártr)    listina \nconstitution   (konstiťušn)   ústava \nBlack Death   (blek def)   Černá smrt (morová epidemie) \ndaffodil   (def’dil)   narcis \nleek    (lík)    pórek \nthistle    (fisl)    bodlák",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:52:10+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:52:10+02:00",
+        "source": "./database/english/GreatBritain.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "GreatBritain"
+      },
+      "page_content": " \nshamrock   (šemrok)   trojlístek \nburial    (berijl)    pohřební \nworship   (wršip)    uctívání \nfortification   (fortifikejšn)   opevnění \ncauseway   (kóswej)   násep \ncolumn   (kol’m)   sloup \nsavoury   (sejv’ry)   slaný, lahodný \npastry    (pejstry)   pečivo \ncounty    (kaunty)   hrabství \nhighlands   (hajlends)   vysočina, vrchovina",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:11:16+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:11:16+02:00",
+        "source": "./database/english/Kanada.pdf",
+        "total_pages": 3,
+        "page": 0,
+        "page_label": "1",
+        "document": "Kanada"
+      },
+      "page_content": " \n1 \n \nCanada \nadvanced version \n1 Geography \nCanada is located in the northern Hemisphere, it borders with the USA in the south and north-\neast, where lie borders with Alaska . Canada is surrounded with oceans  and has the longest \ncoastline of all the countries in the world . There is Atlantic Ocean on the east, Pacific Ocean \nin the west  and Arctic Ocean in the north.  Islands like New Scotland, Newfoundland, \nVictoria, Baffin and Vacouver belong to the largest Canadian islands. Canada is the 2 nd \nlargest country in the world , but has only 36 million inhabitants.  The climate varies from \nArctic climate in the North to moderate climate in the east and west. \n \nThe longest river  is Mackanzie River with its length over 1  700 km. Other long rivers are \nYukon, St. Lawrence, Fraser and Columbia. There are several great la kes in the southern \nborder with the USA and their names are Lake Superior, Ontario, Huron and Erie. Niagara \nfalls are between la kes Ontario and Er ie. Other great lakes are Great Bear Lake, Great Slave \nLake and Lake Winnipeg. The highest mountain is Mount Logan with 5 959 metres. \n2 History \nThe European settlers arrived to Canada in the 15 th century. However Vikings discovered the \nland of Canada more than thousand years before . T he first explorer John Cabot who sailed \nfrom Britain to Canada in 1497 discovered Newfoundland. Quebec was one of the first largest \nsettlements established by French  explorer. Quebec was taken by British corsairs, but soon \nretaken back by French troops during the 30 Years War in 17th century. \n \nThe competition between Britain and France  over the lucrative trade on American continent \nresulted in Seven Years War. France lost the war and French territory became British. During \nthe War of Independence, the newly formed USA hoped that Canada will join the war against \nBritain. However Canada did not go into war, because French -Canadians were tired from \nrecent war and unlike the US colonists, Canadians needed to export their goods to Britain.    \nThe name of the British colony is derived from the native Indian tribes  word “Kanata” that \nmeans a community or a village . In 1898 famous Klondike Gold Rush started in Northwest \nTerritory of Canada. \n \nCanada participated in both world wars.  Canada as a part of British Empire  sent 400 000 \nsoldiers to Europe  in the First World War  to help Britain and France . In total 60  000 \nCanadians died in the First World War.  During the Second World War Canada fought again \nwith Allies and again paid high price, o ver 45 000 Canadians died. The Canadian process of \nindependence started and Canada had its own flag with red maple leaf since 1965 and has its \nown constitution since 198 2. Nowadays Canada is indep endent with its Prime Minister as \nhead of Government, but with British monarch Queen Elisabeth II as head of state. Canada is \npart of many international organizations like United Nations, World Bank, International \nMonetary Fund, World Health Organization a nd NATO. Canadians soldiers are present in all \nthe NATO missions and help in United Nations peacekeeping missions around the world.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:11:16+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:11:16+02:00",
+        "source": "./database/english/Kanada.pdf",
+        "total_pages": 3,
+        "page": 1,
+        "page_label": "2",
+        "document": "Kanada"
+      },
+      "page_content": " \n2 \n \n \n3 Political system \nCanada has its own Constitution since 1982 and has  its independent federal parliamentary \nsystem. The head of state is British monarch Queen Elizabeth II. She is represented in Canada \nby Governor General. However, head of government has the real power and nowadays prime \nminister is Justin Trudeau.  \n \nThe federal parliament which has legislative power consists of  two houses: The House of \nCommons with 383 members that are elected by the people every four years and the Senate  \nwith 105 members  that are appointed by Governo r General on the advice of the prime \nminister. Canada is a bilingual state (English and French languages) since 1965.  \n4 National Symbol \nCanadian Flag has three vertical stripes, two red stripes on sides and one white stripe in the \nmiddle with big red maple leaf.  \n5 Economy \nCanada is a developed country with 10 th largest economy in the world. Less than 10 % of \ncountry is suitable for farming, but despite that Canada is very effective in agriculture and is \none of the largest wheat exporters in the world. In addition it produces  livestock, oats, barley, \nfruit, vegetables and leather. Canada is also major exporter of lumber and paper.  \n \nCountry is rich on natural resources like gold, uranium , copper and other metals. Canada has \nvast deposits of crude oil and natural gas (most oilfields are in Alberta province) . Canada has \n3rd largest proven oil reserves after Venezuela and Saudi Arabia. The dominant sector of \neconomy are services, energy industry and to some extent manufacturing, finance, agriculture \nand fishing. Canadian dollar is significantly influenced by commodity prices. NAFTA (North \nAmerican Free Trade Agreement) helps the free trade with the USA and Mexico.  \n6 Interesting information and places  \nThe capital city is Ottawa, but the biggest city is Toronto. Other big cities are Vancouver, \nQuebec, Edmonton and Winnipeg.  \n \nFamous Niagara Falls between Ontario and Erie lakes is popular tourist attraction. The natural \nparks in Canada are beautiful thanks to its unique wildlife.  Especially Banff National Park in \nRocky Mountains in province Alberta is beautiful. The iconic building of Toronto is CN \nTower. Tourists’ popular places are also Old Quebec, Old Montreal and Gros Morne National \nPark.  \n \nThe national sports  of Canada are ice hockey and lacrosse. Other popular sports are baseball \nand rugby.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:11:16+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:11:16+02:00",
+        "source": "./database/english/Kanada.pdf",
+        "total_pages": 3,
+        "page": 2,
+        "page_label": "3",
+        "document": "Kanada"
+      },
+      "page_content": " \n3 \n \n \n7 Důležitá slovíčka  \nFonetická výslovnost není pro lepší srozumitelnost uvedena. \nborder with (bórdr wit) mít hranici s \nsurrounded (s-raundyd) obklopený \nvary (véry) lišit se \nsettler (setlr) osadník \nexplore (iks-plór) prozkoumat \nunlike (an-lajk) narozdíl od \nderived (dyrajvd) odvozeno z \nallies (élájs) spojenci \nconstitution (konstitjůšn) ústava \nlegislative power (ledžisltiv pau-wr) zákonodárná moc \nelect (ilekt) zvolit \nbilingual (bilingjů-l) dvojjazyčný \nagriculture (egri-kalčr) zemědělství \nlivestock (lajv stok) chovný dobytek \noats (outs) oves \nbarley (bárly) ječmen \ncopper (kopr) měď \nvast (vást) značný   \ndeposit (dyposit) ložisko \nnatural resources (né-č-rl ry-sórsys) přírodní zdroje \nto some extent (tó sam iks-tent) do jisté míry \nsignificantly (signifikntly) značně \ninfluence (influenc) ovlivnit",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:29:56+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:29:56+02:00",
+        "source": "./database/english/London.pdf",
+        "total_pages": 3,
+        "page": 0,
+        "page_label": "1",
+        "document": "London"
+      },
+      "page_content": " \n1 \n \n \nLondon \nadvanced version \n \nLondon is the capital and the largest city of the United Kingdom. It is one of the most important \ncities for business, finance and politics in the world. It has 9 million inhabitants. Most people in \nLondon are British, but there are also many immigrants. The River Thames flows through the city. \n \nHistory \nLondon was established by the Romans about four years after the invasion of AD 43. It was called \nLondinium. During the 2 nd century it replaced Colchester as the capital city of Rom an Britain. In \n180-225 the Romans built the defensive London Wall. After the collapse of Roman rule London \nwent into rapid decline. In 886 it was captured by the West Saxon king Alfred the Great. By the 11th \ncentury, London was the largest town in England.  Westminster Abbey was one of the biggest \nchurches in Europe. The Black Death killed nearly a third of the population in the 14 th century. \nThere was an assassination attempt on James I in Westminster, in the Gunpowder Plot on 5 th \nNovember 1605. The Great F ire of London broke out in 1666 in Pudding Lane. In 1888 London \nbecame home to a series of murders by Jack the Ripper. It was the largest city in the world in 1831 -\n1925. London was bombed by the Germans during the First and the Second World War. It hosted \nthe Olympic Games in 1908, 1948 and 2012. \n \nBuckingham Palace \nIt is the official residence of the Queen and the Royal Family. It was built for the Duke of \nBuckingham in 1703. The Royal Flag flies on top when the Queen is at home. You can see the \nChanging of the Guard at 11 am. \n \nLondon Eye \nThe London Eye is a large Ferris wheel. It is one of the largest observation wheels in the world. It \nwas opened in 2000. It is the most popular paid tourist attraction in the United Kingdom. \n \nPalace of Westminster \nIt is commonly known as the Houses of Parliament. It serves as the meeting place of the House of \nCommons and the House of Lords. The Palace is located on the north bank of the river Thames. Big \nBen is the nickname for the Great Bell, which is situated in Elizabeth Tower. \n \nTrafalgar Square \nIt celebrates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars in 1805. There is \nNelson's Column, a statue of Nelson with four lions around it. The National Art Gallery is one of \nthe most important buildings. \n \nTower of London \nIt was built by William the Conqueror. It used to be a prison and a place of execution. Today, the \nCrown Jewels are kept there. At least six ravens are kept at the Tower at all times. People believe \nthat if they are absent, the kingdom will fall. \n \nTower Bridge \nTower Bridge is a suspension bridge. It crosses the River Thames near the Tower of London. \n \nWestminster Abbey \nWestminster Abbey is a large, mainly Gothic Anglican church. It is the traditional place of \ncoronation and burial site for British monarchs. Since the coronation of William the Conqueror in",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:29:56+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:29:56+02:00",
+        "source": "./database/english/London.pdf",
+        "total_pages": 3,
+        "page": 1,
+        "page_label": "2",
+        "document": "London"
+      },
+      "page_content": " \n2 \n \n \n \n1066, all coronations have been in Westminster Abbey. It is the burial site of more than 3,300 \npeople. \n \nSt Paul's Cathedral \nIt is an Anglican church and the seat of the Bishop of London . It was designed in the English \nBaroque style by Sir Christopher Wren. The old Cathedral had been completely destroyed by the \nGreat Fire of London in 1666.  \n \nRoyal Observatory, Greenwich \nIt is situated on a hill in Greenwich Park. It is best known for the fact that the prime meridian passes \nthrough it. It gave its name to Greenwich Mean Time. \n \nThe Shard \nThis skyscraper is the tallest building in the United Kingdom. Its construction was completed in \n2012. It is 309.7 metres tall and has 72 habitable floors. \n \nDoplňující otázky \n1. Which famous museums and galleries are there in London? \nThe British Museum is the largest museum in the world. You can see for example the Rosetta Stone.  \nThe National Gallery is located in Trafalgar Square. The Tate Gallery is the U nited Kingdom's \nnational museum of British and Modern Art. Madame Tussaud's is an exhibition of life -size wax \nmodels. \n \n2. Where can you go shopping in London? \nThe most popular places are Oxford Street, Regent Street, Harrods and Portobello Road Market. \n \n3. Which well-known parks are there in London? \nSt James's Park, Hyde Park, Kensington Gardens and Regent's Park. \n \n4. What do you know about the Great Fire of London? \nIt happened in Central London in 1666. It started at a baker's house on Pudding Lane and las ted for \nthree days. It destroyed the homes of 70,000 of the 80,000 people who lived in the city. \n \n5. Which means of transport are typical of London? \nThe Tube, red double-decker buses and black cabs.  \n \n6. What do you know about the London Underground? \nIt is the oldest and third longest underground system in the world. It started running in 1863. The \nTube is a slang name for the London Underground. It has 11 lines and 274 stations. \n \n7. What is Heathrow? \nIt is a major international airport in London. It is one of the busiest airports in the world. \n \n8. What do you know about sport in London? \nThe city has hosted the Summer Olympics three times. The most popular sport is football. London \nhas six clubs in the English Premier League: Arsenal, Chelsea, Crystal Palace, Fulham, Tottenham \nHotspur and West Ham United. Wimbledon is the oldest tennis tournament in the world. \n \n9. Where does the British Prime Minister live? \nThe British Prime Minister lives at 10 Downing Street.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:29:56+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T10:29:56+02:00",
+        "source": "./database/english/London.pdf",
+        "total_pages": 3,
+        "page": 2,
+        "page_label": "3",
+        "document": "London"
+      },
+      "page_content": " \n3 \n \n \n \n \n10. What is Gunpowder Plot? \nIt was a failed assassination attempt against King James I. It was organized by Robert Catesby in an \neffort to end the persecution of Roman Catholics by the English government. He and other \nconspirators planted gunpowder in the cellar of the Parliament building. Lord M onteagle, the \nbrother-in-law of one of the conspirators, received an anonymous letter warning him not to attend \nParliament. He alerted the Government. Around midnight on 4th November, 1605, one of the \nconspirators, Guy Fawkes, was discovered in the cellar with 36 barrels of gunpowder. He was taken \ninto custody and tortured. During the next few weeks, all the plotters were killed or captured and \nsentenced to be hanged. In 1606 5 th November was established as a day of public thanksgiving. It is \ncalled Guy Fawkes Night or Bonfire Night. People light bonfires, set off fireworks and burn effigies \nof Fawkes. \n \nDůležitá slovíčka \ndefensive   (difensiv)   obranný \ndecline    (diklajn)   úpadek \ncapture    (kepčr)    chytit \nassassination   (esesinejšn)   atentát \ngunpowder   (ganpaudr)   střelný prach \nduke    (ďůk)    vévoda \nFerris wheel   (feris wíl)   ruské kolo \ncolumn   (kol'm)    sloup \nconqueror   (konkr’r)   dobyvatel \nexecution   (eksikjůšn)   poprava \nraven    (rejv’n)   krkavec \nsuspension bridge  (saspenšn bridž)  visutý most \nbishop    (bišop)    biskup \nmeridian   (meridij’n)   poledník \nshard    (šárd)    střep \ncab    (keb)    taxi \ncellar    (selr)    sklep    \ncustody   (kast’dy)   vazba \ntorture    (torčr)    mučit \nbonfire    (bonfájr)   oheň, táborák \neffigy    (efidži)    podobizna",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:07:32+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:07:32+02:00",
+        "source": "./database/english/NewYork.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "NewYork"
+      },
+      "page_content": " \n1 \n \nNew York \nadvanced version \n \nBASIC FACTS \n− New York is the biggest city in the USA \n− It is sometimes called „The Big Apple“ or „The city that never sleeps“ because it is \nalive with action all day and night \n− There is a humid subtropical climate \n− The present mayor is Bill de Blasio \n− New York is an important center for international diplomacy \n \nHISTORY \n− It was a trading post founded by colonists from the Dutch Republic in 1624 in Lower \nManhattan \n- the post was named New Amsterdam in 1626 \n− It came under English control in 1664 \n− renamed to New Y ork after King Charles II of England granted the lands to his brother, \nthe Duke of Y ork \n− capital of the US from 1785 until 1790 \n \nPOPULATION \n− It has about 8 million people \n− It is the most densely populated major city in the USA \n− 43% of the population is white, 25% African American, and 24% Hispanic \n− the largest foreign-born population of any city in the world \n− More than 800 languages are spoken in New York – New York is often recognized as the \nworld's most linguistically diverse city \n− The original inhabitants were Indian \n− Christianity, Judaism and Islam are the most common religions \n \nECONOMY \n− New York is an important industrial city and business center of the world \n− 12th highest GDP in the world \n− Chocolate is New York City´s leading specialty-food export \n− An unemployment rate is only 4 % \n− large number of multinational corporations \n− New York is home to the highest number of billionaires of any city in the world \n \nGEOGRAPHY \n− It lies in the state of New York \n− It is one of the largest cities in the world",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:07:32+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:07:32+02:00",
+        "source": "./database/english/NewYork.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "NewYork"
+      },
+      "page_content": " \n2 \n \n \n− It is located on the north-east coast of the USA \n− New Y ork covers the area of about 800 sq km and has five major boroughs: Manhattan, \nQueens, the Bronx, Staten Island and Brooklyn \n− There are many islands in this area – Roosevelt Island, Coney Island and Liberty Island \n \nSPORTS \n− New York City is home to the headquarters of the National Football League, Major \nLeague Baseball, the National Basketball Association, the National Hockey League, and \nMajor League Soccer \n− New Y ork has been described as the \"Capital of Baseball\" \n− There are three National Hockey League teams \n− US OPEN one of the world´s four Grand Slams in tennis tournaments, is held at the \nNational Tennis Center in Flushing Meadows-Corona Park, Queens. \n \nINTERESTING PLACES \n− There are many attractive places where visitors like to go – the most widely known is \nthe Brooklyn Bridge, Times Square \n− Another famous place is the Statue of Liberty, the symbol of the USA, its freedom, \ndemocracy and opportunity \n− The only quiet place where, however, it is dangerous to go after dark is Central Park \nwhere also famous rock concerts take place \n− three of the world's ten most visited tourist attractions in 2013 \n \nEDUCATION \n− the largest public school system in the United States – serving about 1.1 million students \nin more than 1,700 separate primary and secondary schools. \n− Over 120 colleges and universities are located in New York City, including Columbia \nUniversity, New York University, and Rockefeller University, which have been ranked among \nthe top universities in the world \n− New York City has the most postgraduate life sciences degrees awarded annually in the \nUnited States, with 127 Nobel laureates having roots in local institutions as of 2005 \n \nCULTURE \n− Broadway is the center of cultural life \n− Many people come to New Y ork for its culture and entertainment \n− 500 art galleries of all sizes \n− Broadway theatre is one of the premier forms of English-language theatre in the world, \nnamed after Broadway \n \nTRANSPORT \n− New York has the largest subway system in the world",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:07:32+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:07:32+02:00",
+        "source": "./database/english/NewYork.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "NewYork"
+      },
+      "page_content": " \n3 \n \n− public bus fleets 24/7 and is the largest in North America \n− The Staten Island Ferry is the world's busiest ferry route \n− The most known airport is J. F. Kennedy international airport \n \nATTRACTIONS \n− The best-known skyscrapers are Empire State Building and twin towers (damaged by \nterorist) of the World Trade Center (WTC) – the New York’s highest skyscraper is 417 m high \n− Annually, the city averages 234 days with at least some sunshine \n− New York is famous for its Manhattan skyline – a large number of skyscrapers in a \nsmall area.   \n− more than 60 milions tourists a year \n \nDoplňující otázky \n1. Where in the world do you find New York? \n− It is located on the north-east coast of the USA \n2. Is the New York a bigger or a smaller city? \n− It is one of the largest cities in the world \n− New York is the biggest city in the USA \n3. How many boroughs are part of New York? \n− New Y ork has five major boroughs: Manhattan, Queens, the Bronx, Staten Island and \nBrooklyn \n4. Who are the nearest bigger cities? \n− Jersey City, Newark or Philadelphia \n5. What is the name of the most known airport in New York? \n− The most known airport is J. F. Kennedy international airport \n6. What about the people of New York? \n− It has about 8 million people \n− It is the most densely populated major city in the USA \n− 43% of the population is white, 25% African American, and 24% Hispanic \n7. What is the climate of New York? \n− There is a humid subtropical climate \n− Annually, the city averages 234 days with at least some sunshine \n8. Who is the head of New York now? \n− The present mayor is Bill de Blasio \n9. What sports have a tradition in New York? \n− New York City is home to the headquarters of the National Football League, Major \nLeague Baseball, the National Basketball Association, the National Hockey League, and \nMajor League Soccer \n− US OPEN one of the world´s four Grand Slams in tennis tournaments",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:07:32+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:07:32+02:00",
+        "source": "./database/english/NewYork.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "NewYork"
+      },
+      "page_content": " \n4 \n \n \n10. What languages are spoken in New York? \n− More than 800 languages are spoken in New York \n− The most spoken languages are English, Spanish, Chinese and Russian \n \n11. What are the symbols of New York? \n− Famous symbols are the Statue of Liberty, the Times Square, Empire State Building, \netc. \n− The flag of New Y ork has horizontal tri-color of blue, white, and orange with a modified \nblue version of the Seal of New York City in the center \n− each borough has its own flag \n \n12. Do you know any world famous people of New York? \n− Vyberte si sami, koho dobře znáte ☺(Tom Cruise, Sarah Gellar, Henry James) \n \n13. Which nicknames belong to New York? Why? \n− It is sometimes called „The Big Apple“ or „The city that never sleeps“ because it is \nalive with action all day and night \n \n14. What is the highest peak of the city? \n− The highest peak of the city is Todt Hill (122 m a. s. l.) \n \n15. What are the most famous universities in New York? \n− It is the Columbia University, New York University, and Rockefeller University, which \nhave been ranked among the top universities in the world. \n \n16. Otázky na Vaše názory: \n− Would you like to take a trip to New Y ork? Which part of New York do you like the most? \nWhich places would you like to see? \n \nDůležitá slovíčka \nFonetická výslovnost není pro lepší srozumitelnost uvedena \nborough (borou) čtvrť \ncoast (koust) pobřeží \ncommon (kamn) běžný, častý \ndensely (densly) hustě \ndiverse (divrs) rozlišný \ngranted  (grantid) věnovat \nhumid (hjumid) vlhký \ninhabitants (inhabitns) občan, obyvatel \nlaureate (loriet) laureát (oceněný) \nmodified (modifajd) upravená \nunemployment rate (animplojment rejt) míra nezaměstnanosti",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:46:55+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T09:46:55+02:00",
+        "source": "./database/english/NewZealand.pdf",
+        "total_pages": 3,
+        "page": 0,
+        "page_label": "1",
+        "document": "NewZealand"
+      },
+      "page_content": " \n \n1 \n \nNew Zealand \nadvanced version \n \nBasic Facts \nNew Zealand is an island country in Oceania. It has a population of 4.9 million. The capital \ncity is Wellington, but the largest city is Auckland. The currency is New Zealand dollar. The \nofficial languages are English, Māori and New Zealand sign language. \n \nHistory \nBecause of its remoteness, New Zealand was one of the last lands to be settled by humans. \nDuring its long period of isolation, it developed a distinct biodiversity of animal and plant life. \nNew Zealand was first settled by Eastern Polynesians between 1250 and 1300. Their culture is \nnow known as Māori. The first Europeans who reached New Zealand were the Dutch explorer \nAbel Tasman and his crew in 1642. In 1769 the British explorer James Cook mapped almos t \nthe entire coastline. New Zealand was visited by many European and American trading ships. \nFrom the early 19 th century, Christian missionaries began to settle New Zealand. In 1840 \nMaori chiefs and British officials signed the Treaty of Waitangi. In 1893 New Zealand was the \nfirst country in the world to grant all women the right to vote. In 1907 New Zealand gained \ndominion status, so it was no longer a colony of the United Kingdom. In 1947 they adopted \nthe Statute of Westminster. It confirmed that the Brit ish Parliament could no longer legislate \nfor New Zealand without its consent. \n \nGeography \nNew Zealand is located south -east of Australia in the South Pacific. It consists of two large \nislands (the North Island and the South Island) and around 600 smaller is lands. Most people \nlive on the North Island. The North Island is separated from the South Island by the Cook \nStrait. The North Island is less mountainous than the South Island, but it shows more \nmanifestations of recent volcanic activity. The highest peak is Aoraki / Mount Cook (3,724 \nm). The longest river is the Waikato (425 km). The largest lake is Lake Taupo. There are \nactive volcanoes, caves, glacial lakes, waterfalls, fjords and beaches in New Zealand.  \n \nPeople \nMost people have European ancestors. 14.9 % of the people are the Māori, the indigenous \npeople of New Zealand. Over three -quarters of the population live on the North Island, with \none-third of the total population living in the Auckland region. 86.5% of the inhabitants live in \nan urban area. New Z ealand's population density of around 18 inhabitants per km 2 is among \nthe lowest in the world. \n \nGovernment and Politics \nNew Zealand is a constitutional monarchy and a parliamentary democracy. It is a part of the \nBritish Commonwealth. Queen Elizabeth II is the formal head of state. She is represented by \nthe Governor-General. The Parliament is unicameral and it holds legislative power. It consists \nof the Queen and the House of Representatives. It also included an upper house, but it was \nabolished in 1950. In 2005 New Zealand became the first country in the world in which all the \nhighest offices were occupied by women.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:46:55+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T09:46:55+02:00",
+        "source": "./database/english/NewZealand.pdf",
+        "total_pages": 3,
+        "page": 1,
+        "page_label": "2",
+        "document": "NewZealand"
+      },
+      "page_content": " \n \n2 \n \nPlants and Animals \nNew Zealand was isolated from the rest of the world for a long time, so there are many plants \nand animals that only live  in New Zealand. The most well -known are flightless birds such as \nthe kiwi. The kiwi is the national symbol of New Zealand. The kakapo is another flightless \nbird. The Tuatara are reptiles which look like lizards. Many bird species, such as the giant \nmoa, became extinct after the arrival of Polynesians and Europeans. They brought invasive \nspecies, such as rats, dogs and cats. Massive deforestation occurred after humans arrived. \nWater pollution is one of the most significant environmental issues. \n \nDoplňující otázky \n1. What does the flag of New Zealand look like? \nIt is blue, red and white. It has the flag of the United Kingdom in the upper left quarter and \nfour red stars on a blue ground. The stars represent the Southern Cross, a constellation. For \nseveral decades there has been debate about changing the flag. In 2016 the country voted to \nkeep the existing flag. \n \n2. What is the national anthem of New Zealand? \nNew Zealand has two national anthems. \"God Defend New Zealand\" is more commonly used. \nIt has English and Māori lyrics. The other one is \"God Save the Queen\".  \n \n3. What are the biggest cities in New Zealand? \nAuckland, Wellington, Christchurch, Hamilton and Tauranga. \n \n4.  Are there any native snakes in New Zealand? \nNo, there aren't. It is also illegal to bring them into the country. \n \n5. What do you know about New Zealand cuisine? \nIt is similar to the cuisine of Australia. Hāngi  is a traditional Māori method of cooking using \nheated rocks. Pavlova is a cake with fruit and whipped cream. It was named after the Russian \nballerina Anna Pavlova. Hokey pokey is a flavour of ice cream. It consists of vanilla ice \ncream and small, solid lu mps of honeycomb toffee. Lolly cake, Anzac biscuits and Afghan \nbiscuits are also popular. \n \n6. What do you know about sport in New Zealand? \nThe national sport is rugby. The country's team (The All Blacks) performs a haka, a traditional \nMāori dance, before international matches. Golf, netball, tennis and cricket are also popular. \n \n7. What is Waitangi Day? \nIt is the national day of New Zealand. It is celebrated on 6 th February. It is an occassion for \nthanksgiving and remembering the signing of the Treaty of Wa itangi in 1840. It framed the \npolitical relations between the government and the Māori population. \n \n8. Who was Edmund Hillary? \nHe was a New Zealand explorer. He and Tenzing Norgay were the first people to climb the \nMount Everest. \n \n9. Who was Ernest Rutherford? \nHe was a New Zealand -born physicist. He is known as the father of nuclear physics. He was \nawarded the Nobel Prize in Chemistry. He discovered the concept of radioactive half -life, the \nradioactive element radon, and differentiated alpha and beta radiation.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:46:55+02:00",
+        "author": "cnb",
+        "moddate": "2019-04-21T09:46:55+02:00",
+        "source": "./database/english/NewZealand.pdf",
+        "total_pages": 3,
+        "page": 2,
+        "page_label": "3",
+        "document": "NewZealand"
+      },
+      "page_content": " \n \n3 \n \n \n10. Who is Peter Jackson? \nHe is a New Zealand film director. He is most widely known for directing The Lord of the \nRings film trilogy, King Kong and The Hobbit. \n \nDůležitá slovíčka \nbiodiversity   (bájoudájvr's'ti)  rozmanitost druhů \ncoastline   (koustlajn)   pobřežní čára \ntreaty    (trýty)    dohoda, smlouva \nconsent   (k'nsent)   souhlas \nstrait    (strejt)    úžina \nglacial lake   (glejšl lejk)   ledovcové jezero \nindigenous   (indidžin's)   domorodý \npopulation density  (popjulejšn densiti)  hustota zalidnění \nunicameral   (junikem'r'l)   jednokomorový \nreptile    (reptajl)   plaz \nlizard    (liz'd)    ještěrka \nspecies    (spíšíz)   druh \ndeforestation   (deforestejšn)   odlesňování \npollution   (polůšn)   znečištění \nconstellation   (konstelejšn)   souhvězdí \nwhipped cream  (wipd krým)   šlehačka \nhoneycomb toffee  (hanykoum tofi)  medové karamelky",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:49:01+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:49:01+02:00",
+        "source": "./database/english/Praha.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "Praha"
+      },
+      "page_content": " \n \n1 \n \nPrague \nadvanced version \n \nPrague is the capital city of the Czech Republic. It is the seat of the President, the Government and \nboth houses of Parliament. It is situated on the Vltava river. Prague has 1.3 million inhabitants. The \noldest parts are the Old Town, The Lesser Town, the New Town, Josefov, Hradčany and Vyšehrad. \n \nHistory \nAccording to legend, Princess Libuše of the Přemyslid dynasty prophesied the future glory of \nPrague which would touch the stars. The city was established in the 9th century. In the Middle Ages, \nit was the seat of princes and later kings. Prague flourished during the the reign of Charles IV in the \n14th century. Charles IV established an Archbishopric (1344), founded Charles University (1348) \nand the New Town. He also promoted the construction of Charles Bridge and St. Vitus Cathedral. In \nthe 15th century, Prague was the centre of the Hussite movement. In the early 17th century, the \nThirty Years' War began with the uprising of the Czech Estates. In 1620 they were defeated in the \nBattle of the White Mountain. In 1621, 27 representatives of the uprising were executed in the Old \nTown Square. At the end of the 18 th century Prague became the centre of Czech cultural life when \nCzech scholars began the process of the National Revival. The Na tional Theatre was built to \nexpress the feeling of national pride. In 1918 Prague became the capital city of the independent \nCzechoslovak Republic. In 1939 it was occupied by German troops. Prague was witness to the \nassassination of one of the most powerfu l people in Nazi Germany, Reinhard Heydrich, in 1942. \nThe August occupation of Prague in 1968 stopped the democratic reforms in the country. Jan Palach \nand Jan Zajíc committed suicide to protest against the ‘normalization‘ of the country. On the 17 th \nNovember, 1989, the V elvet Revolution began democratic changes in the society. In 1993, after the \nsplit of Czechoslovakia, Prague became the capital of the Czech Republic. \n \nPrague Castle \nPrague Castle is the seat of the President. It is the largest ancient cast le of the world. It was founded \nin around 880 by Prince Bořivoj. The complex includes three courtyards and over 700 rooms, for \nexample the late Gothic Vladislav Hall, Spanish Hall and Rudolph Gallery. The most impressive \nbuilding in the complex is St. Vitus Cathedral. It was founded by Charles IV . It holds the treasury of \nthe Czech coronation jewels. The Royal Crypt contains the sarcophagus of Czech kings and queens. \n \nCharles Bridge \nCharles Bridge is the oldest bridge in Prague. It is 520 meters long and 10  meters wide. It is \ndecorated with 30 sculptures and groups of statues mainly of Baroque origin. The bridge replaced \nthe Judith Bridge which had been damaged by a flood. While the bridge was being built, the \nbuilders added eggs to the mortar to make a strong substance to hold the bridge together. \n \nOld Town Square \nThe square features buildings belonging to various architectural styles. The most popular tourist \nattraction is the Prague Astronomical Clock. It is situated on the southern wall of Old Town Hall. \nAmong other famous buildings belong the house At the Stone Bell, Kinský Palace and the Týn \nchurch. \n \nWenceslas Square \nWenceslas Square is the heart of the New Town. It is 750 metres long. The upper end of the square \nis closed by the Neo -Renaissance building of the National Museum, which contains historical and \nnatural history collections. St. Wenceslas Memorial stands in front of the museum.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:49:01+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:49:01+02:00",
+        "source": "./database/english/Praha.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "Praha"
+      },
+      "page_content": " \n \n2 \n \nNational Theatre \nThe National Theatre was built from the desire of the Czech people for national independence. The \nconstruction of the building was financed by contributions from the public. The ceremonial laying \nof the foundational stone became a national event. The theatre was opened in 1881 and burned \ndown in the same year. It was reopened in 1883 by the opera Libuš e by Bedřich Smetana. Today, it \nconsists of three artistic ensembles: opera, ballet and drama. \n \nThe Estates Theatre \nThe Estates Theatre is near the Old Town Square. In 1787 the world premiere of Mozart‘s opera \nDon Giovanni took place there. In 1834 the son g ‘Where Is My Home?’ by the composer František \nŠkroup and the playwright Josef Kajetán Tyl was played there for the first time. It became the \nCzech national anthem. \n \nVyšehrad Castle \nVyšehrad Castle was probably built in the 10 th century. It is located on the right bank of the Vltava \nriver. The Basilica of St. Peter and St. Paul, the V yšehrad Cemetery and Rotunda of St. Martin are \nsituated within the fort. Many famous people from Czech history are buried there, for example \nAntonín Dvořák, Bedřich Smetana, Karel Čapek and Jan Neruda. \n \nPetřín \nPetřín is a hill in the centre of Prague, which is covered with parks. It is a favourite recreational area \nfor the inhabitants. There is the famous Petřín Lookout Tower, which was built in 1891.  It is often \ndescribed as the small version of the Eiffel Tower. There is also a mirror labyrinth and the Prague \nMunicipal Observatory. \n \nCulture \nPrague hosts many cultural events. Some of the significant cultural institutions include the National \nTheatre, the Estates Theatre, the Rudolfinum and the Municipal House. The Rudolfinum is home to \nthe Czech Philharmonic Orchestra and the Municipal House is home to the Prague Symphonic \nOrchestra. The Prague State Opera performs at the Smetana Theatre. The city has many museums \nand galleries, for example the National Museum, the National Gallery, the Museum of the Capital \nCity of Prague, the Jewish Museum and the Náprstek Museum. Prague also hosts various music \nfestivals including the Prague Spring International Musi c Festival. Many films have been made at \nBarrandov Studios and at Prague Studios. \n \nTransport \nPrague has one of the best public transportation systems in Europe. Y ou can use the subway, buses, \ntrams, trains, funiculars and ferries. The Metro has three lines . A fourth Metro line is planned, \nwhich would connect the city centre to southern parts of the city. In the edge of Prague-Ruzyně area  \nthere is Václav Havel Airport. It is one of the largest and busiest airports in central and eastern \nEurope. \n \nDoplňující otázky \n1. What legend is connected with the foundation of Prague? \nAccording to legend, the princess Libuše and her husband, prince Přemysl, ruled over the Czech \nlands from the hill of Vyšehrad. One day Libuše had a vision. She said: ‘I see a great city whose \nglory will touch the stars.’ She instructed people to go and build a castle where a man was building \na threshold of a house. 200 years later the city of Prague became the seat of the Přemyslid dynasty. \n \n2. What contributions did Charles IV make?",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:49:01+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:49:01+02:00",
+        "source": "./database/english/Praha.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "Praha"
+      },
+      "page_content": " \n \n3 \n \nHe established an Archbishopric, founded Charles University and the New Town and promoted the \nconstruction of Charles Bridge and St. Vitus Cathedral. \n \n3. Who was Jan Palach? \nJan Palach was a Czech student. His self -immolation was a political protest against th e end of the \nPrague Spring resulting from the 1968 invasion of Czechoslovakia by the Warsaw Pact armies. \n \n4. What happened in Prague in 1989? \nOn 17th November 1989, around 15,000 students gathered in Prague to honour the memory of Jan \nOpletal. After the of ficial end, they continued from the Czech National Cemetery to Wenceslas \nSquare calling for democratic reforms. They were stopped at Národní Street. The students offered \nflowers to the police shouting rhytmically: ‘We have bare hands’ and singing. The poli ce began to \nbeat the demonstrators. The day was the impulse for great changes to come. The period between \n17th November to 29 th December is called the V elvet Revolution. Václav Havel became the \nPresident. In 1990, the first democratic elections were held. \n \n5. What do you know about Charles University? \nCharles University is the oldest and largest university in the Czech Republic. It was founded in \n1348 by Charles IV as the first university in Central Europe. The historical main building from the \n14th century called Carolinum is situated in the Old Town. Today, the university consists of 17 \nfaculties. \n \n6. What are the main attractions in Hradčany and the Lesser Town? \nThey include the Prague Castle with the St. Vitus Cathedral, the Charles Bridge, the Saint Nicholas \nChurch, the Church of Our Lady Victorious and Infant Jesus of Prague and the Petřín Hill. \n \n7. What are the main attractions in the Old Town? \nThey include the Old Town Square with the Astronomical Clock, the Church of Our Lady before \nTýn, the Old N ew Synagogue, the Old Jewish Cemetery, the Powder Tower and the Municipal \nHouse. \n \n8. What cultural events does Prague host? \nOne of the most significant cultural events is the Prague Spring International Music Festival. It \nopens every year on 12th May – the anniversary of the death of Bedřich Smetana – with his cycle of \nsymphonic poems Má vlast. Artists and orchestras of the highest quality are invited to perform there. \nThe festival includes works of famous composers as well as world premieres of composition s by \ncontemporary authors. \n \n9. Which famous writers lived in Prague? \nThey include Franz Kafka, Jan Neruda, Karel Čapek, Jaroslav Hašek and Jaroslav Seifert. \n \n10. What is Prague Zoo famous for? \nIt has contributed significantly to saving Przewalski‘s horse. In 2004, the first Western Gorilla was \nborn in the Czech Republic. \n \n11. What souvenirs do tourists buy in Prague? \nTourists often buy Marionettes, Bohemian glass, wooden toys, Czech garnets, Mucha posters and \nbooks of fairytales. \n \n12. What traditional food should foreign tourists taste in Prague?",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:49:01+02:00",
+        "author": "Uživatel systému Windows",
+        "moddate": "2019-04-21T09:49:01+02:00",
+        "source": "./database/english/Praha.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "Praha"
+      },
+      "page_content": " \n \n4 \n \nThey should try roast pork with cabbage and dumplings, beef sirloin with cream sauce, fruit \ndumplings and beer. \n \n \n13. How can you travel around Prague? \nYou can use the Metro, buses, trams, trains, funiculars and ferries. \n \n \nDůležitá slovíčka \ninhabitants  (inhebitents)  obyvatelé \nprophesy  (profesáj)  věštit \nflourish  (flariš)   vzkvétat \nuprising  (aprajzin)  povstání \nassassination  (asasinejšn)  atentát \nmortar   (mórtr)   malta \nthreshold  (trešhould)  práh \nself-immolation (self-imolejšn)  sebeupálení \nmarionette  (merijonet)  loutka \nCzech garnet  (ček gánit)  český granát      \nsirloin   (srlon)   svíčková \nfunicular  (fjunikjular)  lanovka \nferry   (feri)   trajekt",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:57:46+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T09:57:46+02:00",
+        "source": "./database/english/USA.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "USA"
+      },
+      "page_content": " \n1 \n \nThe United States of America  \nadvanced version \n1 Geography \nThe USA lies in the northern Hemisphere, it borders with Canada in the north and with \nMexico in the south. Interesting is that the US -Mexico border is the longest guarded border in \nthe world. The Atlantic Ocean is on the eastern coast of the USA and the Pacific Ocean is on \nthe west. The USA is the 4th biggest country in the world after Russia, Canada and China. \n \nThe longest rivers are Mississippi, Missouri and Colorado. There are several great like s in the \nnorthern border with Canada and their names are Lake Superior, Ontario, Michigan, Huron \nand Erie. Niagara falls are between lakes Ontario and Erie. The highest mountain is Mt. Mac \nKinley with its 6194 meters. One of the hottest places in the world  and the lowest in the USA \nis Death Valley which lies in Nevada desert. Thanks to its vast area the USA is a country with \nmany climates, from arctic climate in Alaska to subtropical climate in southern states of USA \n(eg. California, New Mexico, Nevada, Texas). \n2 History \nThe new continent was discovered in 1492 by Christopher Columbus who sailed from Spain \nto find a new way ho w to get to India. At first he thought he is in India , so he called the \nnatives “Indians”. These native tribes were no t developed as Eur opean nations and they were \nliving mostly from agriculture, hunting and fishing. Since the discovery of the new continent \nEuropeans colonized the whole area of the USA which belonged later to the British Empire.   \n \nIn 1773 a group of patriots dressed like Indians threw British tea into the sea in the harbo ur as \na protest of new taxation on sug ar, coffee and textile in the British colony. In 1776 the USA \ndeclared independence and the war between the United Kingdom of Great Britain and \nAmerican colonists started. The Americans won the war of independence in 1783. \n \nAnother import war in the USA history was the Civil War. The northern states wanted to \nabolish the slavery. However southern states used slaves on plantations, so they declared war \nto northern states. Industrial north calling itself as Union had significant advan tage over the \nsouthern agriculture southern states calling itself as Confederacy. North has won the war and \nAbraham Lincoln became the president. However Abraham Lincoln was soon assassinated. \n \nThe USA participated in both world wars. In the First World Wa r the USA joined France and \nthe United Kingdom to help win the war against Germany. The USA was neutral in the first \ntwo years of Second World War. The Japanese navy  however attacked Pearl Harbour and the \nUSA joined Allies in the war against Germany, Japan  and Italy.  The USA and its allies won \nthe Second World War in 1945 and the USA became the world biggest economic power.  \n \nIn the 20th century there were many events like defending South Korea against North Korea, \nloss of war against Communist Vietnam, th e first astronaut on the Moon on Apollo 11 \nmission in 1969, victory of the Cold War against Soviet Union,  two victory wars against \nSadam Husein’s Iraq, terrorist attack on 11 September 2001 on World Trade Centre and the \nwar against Taliban in Afghanistan a nd war against ISIS in Syria and Iraq. The USA is a",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:57:46+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T09:57:46+02:00",
+        "source": "./database/english/USA.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "USA"
+      },
+      "page_content": " \n2 \n \nmember of many international organizations such as World Bank, International Monetary \nBank, World Health Organization and leading member of NATO.  \n3 Political system \nThe USA is a federal constitutional repu blic. The President of the USA is head of state and \nhead of government. President is elected for four years and can be one time reelected. Current \npresident is Donald Trump. Congress has legislative power and Judiciary has the judicial \npower. There are two political parties called the Republicans and Democrats. The Congress is \ndivided into two chambers The House of Representatives with 435 lawmakers and the Senate \nwith 100 members (2 members from each state).  \n4 Economy \nThe USA as a world largest economy has all branches of industry like energy, automotive, \nsteel making, manufacturing, textile, petrochemical, electronics and pharmaceutical. \nAgriculture is very effective and main crops are corn, wheat and cotton. Country is rich in \ncoal, gold, iron, crude oil a nd gas deposits. Services are one of the main drivers of the US \neconomy. The USA has very much developed hi-tech industry.  \n5 National Symbols \nThe US flag has 13 red and white stripes representing the original 13 colonies of the new \nnation. The blue rectangle in the upper left corner contains 50 white stars for 50 states. The \nofficial national symbol is brown eagle with white head. \n6 Interesting places \nWashington D.C. is the capital of the USA. The seat of the president is the White House and \nthe seat of Congress is the Capitol, both buildings are in the Washington D.C. \nNew York is largest city in the USA and one of the most famous cities of the USA with \ninteresting places like Statue of Liberty, Stocks Exchange on Wall Street, skyscrapers like \nEmpire State Building or Chrysler Building, Central Park and Brooklyn Bridge. \nYellowstone National Park is the largest and oldest natural park in the USA. There are many \nbeautiful geysers with hot springs in the area thanks to underground volcanic activity. \nNiagara Falls is beautiful water falls on US-Canadian border. \nLas Vegas is world famous  gambling city in Nevada desert and you can find many casinos \nthere. \nSan Francisco is a beautiful city with nearby famous Alcatraz Prison on the island in the bay \nand Golden Gate Bridge. \nEverglade Swamps are tourist attraction in Florida with beautiful water flora and fauna like \nalligators. \nHollywood which is part of Los Angeles is world famous centre of film production. \n \n7 Holidays and Customs \nOne of the most important holidays is Independence Day on 4 th July, celebrated since 1776. \nVery popular holiday is Thanksgiving Day (the fourth Thursday in November). Christmas \nDay is celebrated on 25 th December. Other holidays are Easter holidays, Halloween and \nVeterans Day.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:57:46+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T09:57:46+02:00",
+        "source": "./database/english/USA.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "USA"
+      },
+      "page_content": " \n3 \n \n \n8 Doplňující otázky \nPodle webu http://www.vysokeskoly.cz/maturitniotazky/anglictina/the-united-states-of-\nmerica, b uďte připraveni na následující otázky. Anglickyzarok Vám při pravilo navíc \nodpovědi na tyto otázky: \n1. Where in the world do you find the USA?  \nThe USA is in the northern hemisphere in the continent called America between \nCanada and Mexico. \n2. Is the USA a bigger or a smaller country?  \nThe USA is a very big country 4th largest in the world. \n3. How many states are part of the USA?  \nThere are fifty states altogether. \n4. Who are the neighbouring countries of the USA?  \nNeighbouring countries are Canada in the north and Mexico in the south. \n5. What is the largest city in the USA and which one is the capital city?  \nThe largest city is New York with 8.5 million inhabitants. \n6. Who are the people of the USA and what is their origin?  \nThey are European colonists. \n7. Is the countryside the same in the USA?  \nThere is big difference between large crowded cities full of skyscrapers and low-\ninhabited countryside. \n8. Who is the head of the USA now?  \nThe head of the USA is President Donald Trump. \n9. What is the traditional food in the USA?  \nTraditional food is roasted Turkey, but modern common food are hamburgers. \n10. Is the American English the same as the British English?  \nNo the Americans have slightly different pronunciation and vocabulary. \n11. What are the symbols of the USA?  \nAn official symbol is flag with red and white stripes with blue rectangular with white  \nstars. Another official symbol is brown eagle with white head.  \n12. Which historical event do you consider the most important for the USA? Is there \nanything special about the US movie making?  \nVictory in war of independence / Victory in World War 2 / vyberte si sami :-). \n13. Is the USA a world superpower? Why? / Why not?  \nYes, the USA is a military superpower, because it is the only state that can carry on \nmilitary operations in the air, on the sea and on the ground anywhere in the whole world \nand has very strong all branches of military (Army, Navy, Air Force, Marines). The",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T09:57:46+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T09:57:46+02:00",
+        "source": "./database/english/USA.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "USA"
+      },
+      "page_content": " \n4 \n \nUSA has thousands of nuclear missiles. There is no reason not to consider the USA as a \nsuperpower.  \n14. Do you know any world famous Americans?  \nVyberte si sami, koho dobře znáte :-) \n15. Which natural monument do you think is the most famous in the world? Why? \nThe Statue of Liberty in New York, because I think it is large monument showing \nAmerican independence. / anebo vyberte sami :-) \n16. What do you think of the American patriotism?  \nPatriotism can be good because people support their country, know the customs and \ntraditions and tend to have good knowledge of their national history. However, strong \npatriotism supports intolerance for other beliefs, religion and nations, so it can be ver y \ndangerous for society.  \n17. Which sports are the most popular in the USA?  \nThe most popular is American football, Soccer (normal football), ice hockey (NHL \nleague), basketball (NBA league), NASCAR (car racing) and baseball. \n18. What do you know about the American space programme?  \nThe USA with its state agency NASA is the leader in space programme from all \ncountries in the world. In the past Americans achieved many successes like several \nlandings on the moon including the very first one. The space shuttle era ended sadly  \nwith two disasters and deaths of astronauts. Nowadays space shuttles are no longer used \nand not only state agency NASA launches rockets to space, but also private companies \nlike Blue Origin (company of J eff Bezos founder of Amazon) and alliance of  Boeing \nand Lockheed send rockets to space. \n19. Otázky na Vaše názory:  \nWould you like to take a road trip around the USA?Which state of the USA do you like \nthe most?Would you like to go surfing to California one day? Would you like to try \nliving like a typical American?  \n9 Důležitá slovíčka (fonetická výslovnost neuvedena pro lepší porozumění) \n \nborder with (bórdr wit) mít hranici s \nvast (vást) značný \nnative (nejtiv trajb) původní kmeny / rodilí \ndiscovered (diskavrd) objeven \nindependence (independnc) nezávislost \nabolish (eboliš) zrušit \nslavery (slej-v-ry) otroctví \nplantations (plántejšns) plantáže \nallies (élájs) spojenci \npower (pau-wr) mocnost  \nlegislative power (ledžisltiv pau-wr) zákonodárná moc \nJudiciary (džudisi-j-ry) soudnictví \njudicial power (džudisijl pau-wr) soudní moc \ndisaster (dizástr) katastrofa \nspace shuttle (spejs-šatl) raketoplán \nnavy (nejvy) námořnictvo",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:02:34+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:02:34+02:00",
+        "source": "./database/english/WilliamShakespear.pdf",
+        "total_pages": 4,
+        "page": 0,
+        "page_label": "1",
+        "document": "WilliamShakespear"
+      },
+      "page_content": " \n1 \n \n \nWilliam Shakespeare \nadvanced version \n \nBASIC FACTS \n− English poet, playwright and actor, widely regarded as the greatest writer in the English \nlanguage and the world's greatest dramatist \n− He was born on 23 April 1564 in Stratford-upon-Avon \n− He died on the same day as he was born (in 1616) \n− Shakespeare’s life in London can be traced from 1592 onwards, first as an actor, then as \na reviser and writer of plays \n− A Shakespeare Festival is held every summer in Stratford \n− Shakespeare conformed to the official state religion \n− The Bible was a constant source of inspiration to him \n \nERA \n− He lived and worked in the 16th century in the period of the English Renaissance \n− Other known writers from this era are for example John Fletcher , John Ford, In the era \nof Renaissance in other countries the famous writers are for example Dante Alighieri, \nFrancesco Petrarca or Lope de Vega \n \nEDUCATION \n− He attended the local Grammar school \n− The „grammar“ schools were the most common form of education, and they were free \n \nFAMILY \n− He was the youngest son of a glove maker John and his wife Mary \n− His father was a respected man who took part in civic life \n− He was the third of eight children, and the eldest surviving son \n− When he was eighteen he married Anne Hathaway who was 8 years older and \nalready pregnant \n− They had two daughters – Susan and Judith and a son Hamnet \n− When Shakespeare was working in London, he did not leave his family for good \n− Shakespeare left a will giving all his property to his eldest daughter Susanna and his \n´second best bed´ to his wife \n \nHIS WORK \n− First Shakespeare helped adapt or re-write older plays but later he started to write his \nown plays and he was very successful \n− Shakespeare wrote: 37 plays and beautiful sonnets, comedies, history plays and",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:02:34+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:02:34+02:00",
+        "source": "./database/english/WilliamShakespear.pdf",
+        "total_pages": 4,
+        "page": 1,
+        "page_label": "2",
+        "document": "WilliamShakespear"
+      },
+      "page_content": " \n2 \n \n \ntragedies: \nComedies: Comedy of Errors, A Midsummer-Night’s Dream, Much Ado about Nothing, \nAs you like it e.g. \nHistory plays: Henry IV , Henry V , Henry VI, Richard III, Julius Caesar \nTragedies: Romeo and Juliet, Macbeth, Hamlet, King Lear, Othello \n \nRomeo and Juliet \n− Romeo and Juliet is about the unhappy love and death of Romeo and Juliet, the only \nchildren of two powerful houses of V erona – the House of Montague and the House of \nCapulet. These two houses hate each other and Romeo Montague meets Juliet at the ball. He \nfells in love with her although he knows that she is Capulet. They love each other very much \nand ask Friar Laurence to marry them. Their love and marriage are secret and by an \nunfortunate coincidence Romeo kills Tybalt who is Juliet’s cousin. Prince of V erona sends \nRomeo to the exile outside V erona and young Juliet is forced to get married to a young \nnobleman called Paris. She asks Friar Laurence to help again and he gives her magic drops \nafter which she fells asleep for several hours and looks as if she was dead. Romeo learns \nabout Juliet’s death in Mantua and hurries to the Capulet´s Monument in a churchyard. He \ndoes no know about the trick and kills himself. Soon after the Juliet wakes up and when she \nsees Romeo dead, she kills herself to. Both Montague and Capulet Houses reconciliate only \nafter the death of their beloved children.Shakespeare's standard poetic form was blank verse, \ncomposed in iambic pentameter \n- his verse was usually unrhymed and consisted of ten syllables to a line, spoken with a \nstress on every second syllable \n− Shakespeare combined poetic genius with a practical sense of the theatre \n− His plays have been translated into every major living language and are performed more \noften than those of any other playwright \n− His plays remain popular and are studied, performed, and reinterpreted through various \ncultural and political contexts around the world \n− Shakespeare was not revered in his lifetime, but he received a large amount of praise \n− Shakespeare made enough money to build a comfortable life \n \nINFLUENCE \n− He expanded the dramatic potential of characterisation, plot, language, and genre \n− Shakespeare influenced novelists such as Thomas Hardy, William Faulkner , and \nCharles Dickens \n− His use of English language helped shape modern English \n \nThe theatre \n− He was one of the builders of The Globe theatre, It was open to the sky and its \nowners, including Shakespeare, shared its profits",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:02:34+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:02:34+02:00",
+        "source": "./database/english/WilliamShakespear.pdf",
+        "total_pages": 4,
+        "page": 2,
+        "page_label": "3",
+        "document": "WilliamShakespear"
+      },
+      "page_content": " \n3 \n \n \n− One day, during a performance off Henry VIII was the Globe destroyed by fire \n− It is also important to remind that in Shakespeare’s time here were no actresses and \nalso women’s roles were played by men and one actor played more roles than one \n− Shakespeare performed for Queen Elizabeth I and James I, who both loved theatre \n \nDoplňující otázky \n \n1. In what era did he work? \n− He lived and worked in the 16th century in the period of the English Renaissance \n2. What was the constant source of inspiration for him? \n− It was the Bible. \n \n3. How old he was when he died? \n− He was exactly 52 years old, because he died on his birthday. \n \n4. What was the name of his wife? \n− His wife was Anne Hathaway. \n \n5. How many children he had? \n− He had three children – two daughters – Susan and Judith and a son Hamnet \n \n6. In which town he worked? \n− He worked in London, but he didn´t leave his family for good. \n \n7. Write a few examples of his work. \n− Choose the most memorable for you. :) \n \n8. What famous persons do you know from Renaissance (not only writers)? \n− Dante Alighieri, Filippo Brunelleschi, Leonardo da Vinci, Michelangelo, Sandro Botticeli. \n \n9. Was Shakespeare revered in his lifetime? \n− No he was not. \n \n10. What was the name of his theatre? \n− The name of his theatre was the Globe. Unfortunately the theatre was destroyed by fire.",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "document",
+      "Document"
+    ],
+    "kwargs": {
+      "metadata": {
+        "producer": "Microsoft® Word 2010",
+        "creator": "Microsoft® Word 2010",
+        "creationdate": "2019-04-21T10:02:34+02:00",
+        "author": "Nejedlý David",
+        "moddate": "2019-04-21T10:02:34+02:00",
+        "source": "./database/english/WilliamShakespear.pdf",
+        "total_pages": 4,
+        "page": 3,
+        "page_label": "4",
+        "document": "WilliamShakespear"
+      },
+      "page_content": " \n4 \n \n \n \n11. What was his standard poetic form? \n− Shakespeare's standard poetic form was blank verse, composed in iambic pentameter. \n12. Have he influenced the language? \n− His use of English language helped shape modern English \n \n13. Were any of his works autobiographical? \n− Some readers have posited that Shakespeare's sonnets are autobiographical. \n \n14. Can we divide his work? \n− His work is often divided into three periods: \n1. 1591–1600: Comedies and history plays from british history or from antics. \n2. 1601–1608: tragedies and sonnets \n3. 1608–1612: tragicomedy, romance \n \nDůležitá slovíčka \nFonetická výslovnost není pro lepší srozumitelnost uvedena \n \ncoincidence (koinsidenc) náhoda, shoda \nokolností  \nconform (konfrm) odpovídat  \nglove maker (glouf mejkr) výrobce rukavic \ninfluence (influens) ovlivnit  \nonward (onwrd) dále (do budoucna – v \nčase) \nplaywright (plejrajt) dramatik  \nplot  (plot) děj \nregard (rigard) považovat \nrevere (revije) vážit si, ctít \nsource (sors) zdroj",
+      "type": "Document"
+    }
+  }
+]
