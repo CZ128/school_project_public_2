@@ -1,0 +1,16 @@
+[project]
+name = "school-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agent-py>=0.0.24",
+    "dotenv>=0.9.9",
+    "fastembed>=0.7.3",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langgraph>=0.6.7",
+    "langmem>=0.0.29",
+    "qdrant-client>=1.15.1",
+]
